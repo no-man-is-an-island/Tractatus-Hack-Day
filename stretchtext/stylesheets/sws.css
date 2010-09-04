@@ -87,7 +87,7 @@ vertical-align:top;
 .contextToggle{
 position:relative;
 }
-.stretch{
+.stretchtext_note{
 background:#ddddbd;
 margin-top:0px;
 margin-left:0.09in;
@@ -95,9 +95,11 @@ margin-right:0.01in;
 padding: 5px;
 border:1px dotted #bbbb9D;
 width:500px;
+  -moz-box-shadow: 0 0 0.6em black;
+  -webkit-box-shadow: 0 0 0.6em black;
 }
 
-.stretch .stretch{
+.stretchtext_note .stretchtext_note{
 background:#eeeecd;
 width:100%;
 overflow:visible;
@@ -108,7 +110,7 @@ margin-bottom: 10px;
 padding: 5px;
 }
 
-.stretch .stretch .stretch{
+.stretchtext_note .stretchtext_note .stretchtext_note{
 background:#CDCDCD;
 width:100%;
 overflow:visible;
@@ -117,7 +119,7 @@ margin-right:0px;
 padding: 5px;
 }
 
-.stretch .stretch .stretch .stretch{
+.stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note{
 background:#A8A8A8;
 width:100%;
 overflow:visible;
@@ -126,7 +128,7 @@ margin-right:0px;
 padding: 5px;
 }
 
-.stretch .stretch .stretch .stretch .stretch{
+.stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note{
 background:#8F8FBD;
 width:100%;
 overflow:visible;
@@ -135,7 +137,7 @@ margin-right:0px;
 padding: 5px;
 }
 
-.stretch .stretch .stretch .stretch .stretch .stretch{
+.stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note .stretchtext_note{
 background:#D19275;
 width:100%;
 overflow:visible;
