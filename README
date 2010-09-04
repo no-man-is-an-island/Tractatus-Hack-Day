@@ -1,0 +1,14 @@
+ProjectPage: Tinderbox file and export template for our project webpage
+
+Note: We have used the version of the Tractatus found on Project Gutenberg at:
+http://www.gutenberg.org/etext/5740
+
+Note: The Project Gutenberg version of The Tractatus does not include several sections. We have supplemented them with quotations from the Routlege edition. In Tinderbox, these notes are bright green.
+ - 2.1513
+ - 2.21
+
+Note: In several cases, the text of the Tractatus includes subheadings which have no parent. In order to preserve the relative importance level, we have inserted phantom notes. In Tinderbox, these Phantom notes are bright blue.
+- 2.0
+- 2.20
+- 3.0
+- 3.00

@@ -1,0 +1,21 @@
+^if(^get(enabled)^)^
+
+    <a href="^url(self)^"><div class="post_thumb enabled">
+      <div align="center">
+       <img src="^get(image)^" width="200" height="75"  border="1"/>
+      </div>
+      <div class="thumb_title">^title^</div>
+      <div class="thumb_desc">^get(summary)^</div>
+    </div></a>
+
+^else^
+    <div class="post_thumb disabled">
+      <div align="center">
+       <img src="^get(image)^" width="200" height="75"  border="1"/>
+      </div>
+      <div class="thumb_title">^title^</div>
+      <div class="thumb_desc">^get(summary)^</div>
+    </div>
+
+
+^endif^
