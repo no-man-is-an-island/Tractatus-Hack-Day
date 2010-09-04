@@ -10003,7 +10003,7 @@ propositions were generalizations of elementary propositions.)\par
 <attribute name="Modified" >2010-09-04T16:47:00+01:00</attribute>
 <attribute name="Name" >5. A proposition is a truth-function of elementary propositions.</attribute>
 <attribute name="ReadCount" >1</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >64.5</attribute>
 <text >5. A proposition is a truth-function of elementary propositions.(An elementary proposition is a truth-function of itself.)</text>
@@ -13982,7 +13982,7 @@ of the world--not a part of it.\par
 <attribute name="Modified" >2010-09-04T16:48:00+01:00</attribute>
 <attribute name="Name" >6. The general form of a truth-function is [p, E, N(E)].</attribute>
 <attribute name="ReadCount" >1</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >102</attribute>
 <text >6. The general form of a truth-function is [p, E, N(E)].This is the general form of a proposition.</text>
@@ -14000,12 +14000,38 @@ of the world--not a part of it.\par
 This is the general form of a proposition.\par
 }}
 </rtf>
+<item ID="3366467401" Creator="system" >
+<attribute name="Created" >2010-09-04T17:50:00+01:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:50:00+01:00</attribute>
+<attribute name="Name" >6.0</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >17.5</attribute>
+<attribute name="Ypos" >102</attribute>
+<text >There is no note with this index in the Tractatus. However, to demonstrate the greater logical importance of its siblings over its children, we have added this node which preserves the hierarchy.</text>
+<styles >
+ <tstyle font="Hoefler Text" bold="0" italic="1" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
+</styles>
+<item ID="3366467402" Creator="system" >
+<attribute name="Created" >2010-09-04T17:50:00+01:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:50:00+01:00</attribute>
+<attribute name="Name" >6.00</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Xpos" >21</attribute>
+<attribute name="Ypos" >102</attribute>
+<text >There is no note with this index in the Tractatus. However, to demonstrate the greater logical importance of its siblings over its children, we have added this node which preserves the hierarchy.</text>
+<styles >
+ <tstyle font="Hoefler Text" bold="0" italic="1" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
+</styles>
 <item ID="3366465678" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.001 What this says is just that every proposition is a result of</attribute>
 <attribute name="ReadCount" >1</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.001 What this says is just that every proposition is a result ofsuccessive applications to elementary propositions of the operation N(E)</text>
@@ -14029,7 +14055,7 @@ successive applications to elementary propositions of the operation N(E)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.002 If we are given the general form according to which propositions</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.002 If we are given the general form according to which propositionsare constructed, then with it we are also given the general formaccording to which one proposition can be generated out of another bymeans of an operation.</text>
@@ -14051,11 +14077,12 @@ means of an operation.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465680" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.01 Therefore the general form of an operation /&apos;(n) is [E, N(E)]&apos; (n)</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.01 Therefore the general form of an operation /&apos;(n) is [E, N(E)]&apos; (n)( = [n, E, N(E)]). This is the most general form of transition from oneproposition to another.</text>
@@ -14080,7 +14107,7 @@ proposition to another.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.02 And this is how we arrive at numbers. I give the following</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.02 And this is how we arrive at numbers. I give the followingdefinitions x = /0x Def., /&apos;/v&apos;x = /v+1&apos;x Def. So, in accordance withthese rules, which deal with signs, we write the series x, /&apos;x,/&apos;/&apos;x, /&apos;/&apos;/&apos;x,..., in the following way /0&apos;x, /0+1&apos;x, /0+1+1&apos;x,/0+1+1+1&apos;x,.... Therefore, instead of &apos;[x, E, /&apos;E]&apos;, I write &apos;[/0&apos;x,/v&apos;x, /v+1&apos;x]&apos;. And I give the following definitions 0 + 1 = 1 Def., 0 +1 + 1 = 2 Def., 0 + 1 + 1 +1 = 3 Def., (and so on).</text>
@@ -14104,12 +14131,11 @@ these rules, which deal with signs, we write the series x, /&apos;x,\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465682" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.021 A number is the exponent of an operation.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.021 A number is the exponent of an operation.</text>
@@ -14132,7 +14158,7 @@ these rules, which deal with signs, we write the series x, /&apos;x,\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.022 The concept of number is simply what is common to all numbers, the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >103.5</attribute>
 <text >6.022 The concept of number is simply what is common to all numbers, thegeneral form of a number. The concept of number is the variable number.And the concept of numerical equality is the general form of allparticular cases of numerical equality.</text>
@@ -14154,11 +14180,12 @@ particular cases of numerical equality.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465684" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.03 The general form of an integer is [0, E, E +1].</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.03 The general form of an integer is [0, E, E +1].</text>
@@ -14176,12 +14203,11 @@ particular cases of numerical equality.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465685" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.031 The theory of classes is completely superfluous in mathematics.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.031 The theory of classes is completely superfluous in mathematics.This is connected with the fact that the generality required inmathematics is not accidental generality.</text>
@@ -14202,11 +14228,13 @@ mathematics is not accidental generality.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465686" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1 The propositions of logic are tautologies.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.1 The propositions of logic are tautologies.</text>
@@ -14224,12 +14252,11 @@ mathematics is not accidental generality.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465687" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.11 Therefore the propositions of logic say nothing. (They are the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.11 Therefore the propositions of logic say nothing. (They are theanalytic propositions.)</text>
@@ -14248,12 +14275,11 @@ analytic propositions.)\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465688" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.111 All theories that make a proposition of logic appear to have</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.111 All theories that make a proposition of logic appear to havecontent are false. One might think, for example, that the words &apos;true&apos;and &apos;false&apos; signified two properties among other properties, and then itwould seem to be a remarkable fact that every proposition possessed oneof these properties. On this theory it seems to be anything but obvious,just as, for instance, the proposition, &apos;All roses are either yellow orred&apos;, would not sound obvious even if it were true. Indeed, the logicalproposition acquires all the characteristics of a proposition of naturalscience and this is the sure sign that it has been construed wrongly.</text>
@@ -14284,7 +14310,7 @@ science and this is the sure sign that it has been construed wrongly.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.112 The correct explanation of the propositions of logic must assign</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >105</attribute>
 <text >6.112 The correct explanation of the propositions of logic must assignto them a unique status among all propositions.</text>
@@ -14308,7 +14334,7 @@ to them a unique status among all propositions.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.113 It is the peculiar mark of logical propositions that one can</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.113 It is the peculiar mark of logical propositions that one canrecognize that they are true from the symbol alone, and this factcontains in itself the whole philosophy of logic. And so too it isa very important fact that the truth or falsity of non-logicalpropositions cannot be recognized from the propositions alone.</text>
@@ -14331,11 +14357,12 @@ propositions cannot be recognized from the propositions alone.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465691" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.12 The fact that the propositions of logic are tautologies shows the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.12 The fact that the propositions of logic are tautologies shows theformal--logical--properties of language and the world. The fact thata tautology is yielded by this particular way of connecting itsconstituents characterizes the logic of its constituents. Ifpropositions are to yield a tautology when they are connected in acertain way, they must have certain structural properties. So theiryielding a tautology when combined in this shows that they possess thesestructural properties.</text>
@@ -14360,12 +14387,23 @@ structural properties.\par
 \par
 }}
 </rtf>
-</item>
+<item ID="3366467521" Creator="system" >
+<attribute name="Created" >2010-09-04T17:52:00+01:00</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:52:00+01:00</attribute>
+<attribute name="Name" >6.120</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Xpos" >3</attribute>
+<attribute name="Ypos" >109.5</attribute>
+<text >There is no note with this index in the Tractatus. However, to demonstrate the greater logical importance of its siblings over its children, we have added this node which preserves the hierarchy.</text>
+<styles >
+ <tstyle font="Hoefler Text" bold="0" italic="1" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
+</styles>
 <item ID="3366465692" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1201 For example, the fact that the propositions &apos;p&apos; and &apos;Pp&apos; in the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.1201 For example, the fact that the propositions &apos;p&apos; and &apos;Pp&apos; in thecombination &apos;(p. Pp)&apos; yield a tautology shows that they contradict oneanother. The fact that the propositions &apos;p z q&apos;, &apos;p&apos;, and &apos;q&apos;, combinedwith one another in the form &apos;(p z q). (p):z: (q)&apos;, yield a tautologyshows that q follows from p and p z q. The fact that &apos;(x). fxx:z: fa&apos; isa tautology shows that fa follows from (x). fx. Etc. etc.</text>
@@ -14393,7 +14431,7 @@ a tautology shows that fa follows from (x). fx. Etc. etc.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1202 It is clear that one could achieve the same purpose by using</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.1202 It is clear that one could achieve the same purpose by usingcontradictions instead of tautologies.</text>
@@ -14417,7 +14455,7 @@ contradictions instead of tautologies.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1203 In order to recognize an expression as a tautology, in cases</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.1203 In order to recognize an expression as a tautology, in caseswhere no generality-sign occurs in it, one can employ the followingintuitive method: instead of &apos;p&apos;, &apos;q&apos;, &apos;r&apos;, etc. I write &apos;TpF&apos;, &apos;TqF&apos;,&apos;TrF&apos;, etc. Truth-combinations I express by means of brackets, e.g. andI use lines to express the correlation of the truth or falsity of thewhole proposition with the truth-combinations of its truth-arguments,in the following way So this sign, for instance, would representthe proposition p z q. Now, by way of example, I wish to examine theproposition P(p.Pp) (the law of contradiction) in order to determinewhether it is a tautology. In our notation the form &apos;PE&apos; is written asand the form &apos;E. n&apos; as Hence the proposition P(p. Pp). reads as followsIf we here substitute &apos;p&apos; for &apos;q&apos; and examine how the outermost T and Fare connected with the innermost ones, the result will be that the truthof the whole proposition is correlated with all the truth-combinationsof its argument, and its falsity with none of the truth-combinations.</text>
@@ -14450,11 +14488,12 @@ of its argument, and its falsity with none of the truth-combinations.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465695" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.121 The propositions of logic demonstrate the logical properties</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >106.5</attribute>
 <text >6.121 The propositions of logic demonstrate the logical propertiesof propositions by combining them so as to form propositions that saynothing. This method could also be called a zero-method. In a logicalproposition, propositions are brought into equilibrium with oneanother, and the state of equilibrium then indicates what the logicalconstitution of these propositions must be.</text>
@@ -14482,7 +14521,7 @@ constitution of these propositions must be.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.122 It follows from this that we can actually do without logical</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.122 It follows from this that we can actually do without logicalpropositions; for in a suitable notation we can in fact recognize theformal properties of propositions by mere inspection of the propositionsthemselves.</text>
@@ -14503,12 +14542,11 @@ themselves.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465697" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1221 If, for example, two propositions &apos;p&apos; and &apos;q&apos; in the combination</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.1221 If, for example, two propositions &apos;p&apos; and &apos;q&apos; in the combination&apos;p z q&apos; yield a tautology, then it is clear that q follows from p. Forexample, we see from the two propositions themselves that &apos;q&apos; followsfrom &apos;p z q. p&apos;, but it is also possible to show it in this way: wecombine them to form &apos;p z q. p:z: q&apos;, and then show that this is atautology.</text>
@@ -14536,7 +14574,7 @@ tautology.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1222 This throws some light on the question why logical propositions</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.1222 This throws some light on the question why logical propositionscannot be confirmed by experience any more than they can be refuted byit. Not only must a proposition of logic be irrefutable by anypossible experience, but it must also be unconfirmable by any possibleexperience.</text>
@@ -14563,7 +14601,7 @@ experience.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1223 Now it becomes clear why people have often felt as if it were</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.1223 Now it becomes clear why people have often felt as if it werefor us to &apos;postulate&apos; the &apos;truths of logic&apos;. The reason is that we canpostulate them in so far as we can postulate an adequate notation.</text>
@@ -14588,7 +14626,7 @@ postulate them in so far as we can postulate an adequate notation.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1224 It also becomes clear now why logic was called the theory of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.1224 It also becomes clear now why logic was called the theory offorms and of inference.</text>
@@ -14608,11 +14646,12 @@ forms and of inference.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465701" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.123 Clearly the laws of logic cannot in their turn be subject to</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >108</attribute>
 <text >6.123 Clearly the laws of logic cannot in their turn be subject tolaws of logic. (There is not, as Russell thought, a special law ofcontradiction for each &apos;type&apos;; one law is enough, since it is notapplied to itself.)</text>
@@ -14633,12 +14672,11 @@ applied to itself.)\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465702" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1231 The mark of a logical proposition is not general validity. To be</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.1231 The mark of a logical proposition is not general validity. To begeneral means no more than to be accidentally valid for all things.An ungeneralized proposition can be tautological just as well as ageneralized one.</text>
@@ -14664,7 +14702,7 @@ generalized one.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1232 The general validity of logic might be called essential, in</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.1232 The general validity of logic might be called essential, incontrast with the accidental general validity of such propositionsas &apos;All men are mortal&apos;. Propositions like Russell&apos;s &apos;axiom ofreducibility&apos; are not logical propositions, and this explains ourfeeling that, even if they were true, their truth could only be theresult of a fortunate accident.</text>
@@ -14692,7 +14730,7 @@ result of a fortunate accident.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1233 It is possible to imagine a world in which the axiom of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.1233 It is possible to imagine a world in which the axiom ofreducibility is not valid. It is clear, however, that logic has nothingto do with the question whether our world really is like that or not.</text>
@@ -14713,11 +14751,12 @@ to do with the question whether our world really is like that or not.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465705" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.124 The propositions of logic describe the scaffolding of the world,</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.124 The propositions of logic describe the scaffolding of the world,or rather they represent it. They have no &apos;subject-matter&apos;. Theypresuppose that names have meaning and elementary propositions sense;and that is their connexion with the world. It is clear that somethingabout the world must be indicated by the fact that certain combinationsof symbols--whose essence involves the possession of a determinatecharacter--are tautologies. This contains the decisive point. We havesaid that some things are arbitrary in the symbols that we use and thatsome things are not. In logic it is only the latter that express: butthat means that logic is not a field in which we express what we wishwith the help of signs, but rather one in which the nature of theabsolutely necessary signs speaks for itself. If we know the logicalsyntax of any sign-language, then we have already been given all thepropositions of logic.</text>
@@ -14753,7 +14792,7 @@ propositions of logic.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.125 It is possible--indeed possible even according to the old</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.125 It is possible--indeed possible even according to the oldconception of logic--to give in advance a description of all &apos;true&apos;logical propositions.</text>
@@ -14773,12 +14812,11 @@ logical propositions.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465707" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1251 Hence there can never be surprises in logic.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >109.5</attribute>
 <text >6.1251 Hence there can never be surprises in logic.</text>
@@ -14797,11 +14835,12 @@ logical propositions.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465708" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.126 One can calculate whether a proposition belongs to logic, by</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.126 One can calculate whether a proposition belongs to logic, bycalculating the logical properties of the symbol. And this is what wedo when we &apos;prove&apos; a logical proposition. For, without bothering aboutsense or meaning, we construct the logical proposition out of othersusing only rules that deal with signs. The proof of logical propositionsconsists in the following process: we produce them out of other logicalpropositions by successively applying certain operations that alwaysgenerate further tautologies out of the initial ones. (And in fact onlytautologies follow from a tautology.) Of course this way of showing thatthe propositions of logic are tautologies is not at all essential tologic, if only because the propositions from which the proof starts mustshow without any proof that they are tautologies.</text>
@@ -14830,12 +14869,11 @@ show without any proof that they are tautologies.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465709" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1261 In logic process and result are equivalent. (Hence the absence of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.1261 In logic process and result are equivalent. (Hence the absence ofsurprise.)</text>
@@ -14859,7 +14897,7 @@ surprise.)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1262 Proof in logic is merely a mechanical expedient to facilitate the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.1262 Proof in logic is merely a mechanical expedient to facilitate therecognition of tautologies in complicated cases.</text>
@@ -14883,7 +14921,7 @@ recognition of tautologies in complicated cases.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1263 Indeed, it would be altogether too remarkable if a proposition</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.1263 Indeed, it would be altogether too remarkable if a propositionthat had sense could be proved logically from others, and so too could alogical proposition. It is clear from the start that a logical proof ofa proposition that has sense and a proof in logic must be two entirelydifferent things.</text>
@@ -14910,7 +14948,7 @@ different things.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1264 A proposition that has sense states something, which is shown by</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.1264 A proposition that has sense states something, which is shown byits proof to be so. In logic every proposition is the form of a proof.Every proposition of logic is a modus ponens represented in signs. (Andone cannot express the modus ponens by means of a proposition.)</text>
@@ -14936,7 +14974,7 @@ one cannot express the modus ponens by means of a proposition.)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1265 It is always possible to construe logic in such a way that every</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >111</attribute>
 <text >6.1265 It is always possible to construe logic in such a way that everyproposition is its own proof.</text>
@@ -14956,11 +14994,12 @@ proposition is its own proof.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465714" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.127 All the propositions of logic are of equal status: it is not</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.127 All the propositions of logic are of equal status: it is notthe case that some of them are essentially derived propositions. Everytautology itself shows that it is a tautology.</text>
@@ -14980,12 +15019,11 @@ tautology itself shows that it is a tautology.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465715" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.1271 It is clear that the number of the &apos;primitive propositions</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.1271 It is clear that the number of the &apos;primitive propositionsof logic&apos; is arbitrary, since one could derive logic from a singleprimitive proposition, e.g. by simply constructing the logical productof Frege&apos;s primitive propositions. (Frege would perhaps say thatwe should then no longer have an immediately self-evident primitiveproposition. But it is remarkable that a thinker as rigorous as Fregeappealed to the degree of self-evidence as the criterion of a logicalproposition.)</text>
@@ -15011,11 +15049,13 @@ proposition.)\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465716" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.13 Logic is not a body of doctrine, but a mirror-image of the world.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.13 Logic is not a body of doctrine, but a mirror-image of the world.Logic is transcendental.</text>
@@ -15035,11 +15075,12 @@ Logic is transcendental.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465717" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2 Mathematics is a logical method. The propositions of mathematics are</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.2 Mathematics is a logical method. The propositions of mathematics areequations, and therefore pseudo-propositions.</text>
@@ -15058,12 +15099,11 @@ equations, and therefore pseudo-propositions.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465718" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.21 A proposition of mathematics does not express a thought.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.21 A proposition of mathematics does not express a thought.</text>
@@ -15081,12 +15121,11 @@ equations, and therefore pseudo-propositions.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465719" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.211 Indeed in real life a mathematical proposition is never what</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >112.5</attribute>
 <text >6.211 Indeed in real life a mathematical proposition is never whatwe want. Rather, we make use of mathematical propositions only ininferences from propositions that do not belong to mathematics to othersthat likewise do not belong to mathematics. (In philosophy the question,&apos;What do we actually use this word or this proposition for?&apos; repeatedlyleads to valuable insights.)</text>
@@ -15110,11 +15149,12 @@ leads to valuable insights.)\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465720" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.22 The logic of the world, which is shown in tautologies by the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.22 The logic of the world, which is shown in tautologies by thepropositions of logic, is shown in equations by mathematics.</text>
@@ -15138,7 +15178,7 @@ propositions of logic, is shown in equations by mathematics.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.23 If two expressions are combined by means of the sign of equality,</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.23 If two expressions are combined by means of the sign of equality,that means that they can be substituted for one another. But it must bemanifest in the two expressions themselves whether this is the caseor not. When two expressions can be substituted for one another, thatcharacterizes their logical form.</text>
@@ -15160,12 +15200,11 @@ characterizes their logical form.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465722" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.231 It is a property of affirmation that it can be construed as double</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.231 It is a property of affirmation that it can be construed as doublenegation. It is a property of &apos;1 + 1 + 1 + 1&apos; that it can be construedas &apos;(1 + 1) + (1 + 1)&apos;.</text>
@@ -15190,7 +15229,7 @@ as &apos;(1 + 1) + (1 + 1)&apos;.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.232 Frege says that the two expressions have the same meaning but</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.232 Frege says that the two expressions have the same meaning butdifferent senses. But the essential point about an equation is that itis not necessary in order to show that the two expressions connected bythe sign of equality have the same meaning, since this can be seen fromthe two expressions themselves.</text>
@@ -15212,12 +15251,11 @@ the two expressions themselves.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465724" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2321 And the possibility of proving the propositions of mathematics</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.2321 And the possibility of proving the propositions of mathematicsmeans simply that their correctness can be perceived without its beingnecessary that what they express should itself be compared with thefacts in order to determine its correctness.</text>
@@ -15243,7 +15281,7 @@ facts in order to determine its correctness.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2322 It is impossible to assert the identity of meaning of two</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >114</attribute>
 <text >6.2322 It is impossible to assert the identity of meaning of twoexpressions. For in order to be able to assert anything about theirmeaning, I must know their meaning, and I cannot know their meaningwithout knowing whether what they mean is the same or different.</text>
@@ -15269,7 +15307,7 @@ without knowing whether what they mean is the same or different.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2323 An equation merely marks the point of view from which I consider</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.2323 An equation merely marks the point of view from which I considerthe two expressions: it marks their equivalence in meaning.</text>
@@ -15289,11 +15327,12 @@ the two expressions: it marks their equivalence in meaning.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465727" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.233 The question whether intuition is needed for the solution of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.233 The question whether intuition is needed for the solution ofmathematical problems must be given the answer that in this caselanguage itself provides the necessary intuition.</text>
@@ -15313,12 +15352,11 @@ language itself provides the necessary intuition.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465728" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2331 The process of calculating serves to bring about that intuition.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.2331 The process of calculating serves to bring about that intuition.Calculation is not an experiment.</text>
@@ -15338,11 +15376,12 @@ Calculation is not an experiment.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465729" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.234 Mathematics is a method of logic.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.234 Mathematics is a method of logic.</text>
@@ -15360,12 +15399,11 @@ Calculation is not an experiment.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465730" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.2341 It is the essential characteristic of mathematical method that</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.2341 It is the essential characteristic of mathematical method thatit employs equations. For it is because of this method that everyproposition of mathematics must go without saying.</text>
@@ -15386,11 +15424,13 @@ proposition of mathematics must go without saying.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465731" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.24 The method by which mathematics arrives at its equations is the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >115.5</attribute>
 <text >6.24 The method by which mathematics arrives at its equations is themethod of substitution. For equations express the substitutability oftwo expressions and, starting from a number of equations, we advance tonew equations by substituting different expressions in accordance withthe equations.</text>
@@ -15412,12 +15452,11 @@ the equations.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465732" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.241 Thus the proof of the proposition 2 t 2 = 4 runs as follows:</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.241 Thus the proof of the proposition 2 t 2 = 4 runs as follows:(/v)n&apos;x = /v x u&apos;x Def., /2 x 2&apos;x = (/2)2&apos;x = (/2)1 + 1&apos;x = /2&apos; /2&apos;x =/1 + 1&apos;/1 + 1&apos;x = (/&apos;/)&apos;(/&apos;/)&apos;x =/&apos;/&apos;/&apos;/&apos;x = /1 + 1 + 1 + 1&apos;x = /4&apos;x.</text>
@@ -15438,11 +15477,13 @@ the equations.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465733" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3 The exploration of logic means the exploration of everything that is</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.3 The exploration of logic means the exploration of everything that issubject to law. And outside logic everything is accidental.</text>
@@ -15461,12 +15502,11 @@ subject to law. And outside logic everything is accidental.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465734" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.31 The so-called law of induction cannot possibly be a law of logic,</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.31 The so-called law of induction cannot possibly be a law of logic,since it is obviously a proposition with sense.---Nor, therefore, can itbe an a priori law.</text>
@@ -15491,7 +15531,7 @@ be an a priori law.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.32 The law of causality is not a law but the form of a law.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.32 The law of causality is not a law but the form of a law.</text>
@@ -15509,12 +15549,11 @@ be an a priori law.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465736" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.321 &apos;Law of causality&apos;--that is a general name. And just as in</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.321 &apos;Law of causality&apos;--that is a general name. And just as inmechanics, for example, there are &apos;minimum-principles&apos;, such as the lawof least action, so too in physics there are causal laws, laws of thecausal form.</text>
@@ -15535,12 +15574,11 @@ causal form.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465737" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3211 Indeed people even surmised that there must be a &apos;law of least</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >117</attribute>
 <text >6.3211 Indeed people even surmised that there must be a &apos;law of leastaction&apos; before they knew exactly how it went. (Here, as always, what iscertain a priori proves to be something purely logical.)</text>
@@ -15561,11 +15599,13 @@ certain a priori proves to be something purely logical.)\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465738" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.33 We do not have an a priori belief in a law of conservation, but</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.33 We do not have an a priori belief in a law of conservation, butrather a priori knowledge of the possibility of a logical form.</text>
@@ -15589,7 +15629,7 @@ rather a priori knowledge of the possibility of a logical form.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.34 All such propositions, including the principle of sufficient</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.34 All such propositions, including the principle of sufficientreason, tile laws of continuity in nature and of least effort in nature,etc. etc.--all these are a priori insights about the forms in which thepropositions of science can be cast.</text>
@@ -15610,12 +15650,11 @@ propositions of science can be cast.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465740" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.341 Newtonian mechanics, for example, imposes a unified form on the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.341 Newtonian mechanics, for example, imposes a unified form on thedescription of the world. Let us imagine a white surface with irregularblack spots on it. We then say that whatever kind of picture these make,I can always approximate as closely as I wish to the description of itby covering the surface with a sufficiently fine square mesh, and thensaying of every square whether it is black or white. In this way I shallhave imposed a unified form on the description of the surface. The formis optional, since I could have achieved the same result by using a netwith a triangular or hexagonal mesh. Possibly the use of a triangularmesh would have made the description simpler: that is to say, it mightbe that we could describe the surface more accurately with a coarsetriangular mesh than with a fine square mesh (or conversely), and so on.The different nets correspond to different systems for describing theworld. Mechanics determines one form of description of the world bysaying that all propositions used in the description of the world mustbe obtained in a given way from a given set of propositions--the axiomsof mechanics. It thus supplies the bricks for building the edifice ofscience, and it says, &apos;Any building that you want to erect, whatever itmay be, must somehow be constructed with these bricks, and with thesealone.&apos; (Just as with the number-system we must be able to write downany number we wish, so with the system of mechanics we must be able towrite down any proposition of physics that we wish.)</text>
@@ -15659,7 +15698,7 @@ write down any proposition of physics that we wish.)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.342 And now we can see the relative position of logic and mechanics.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.342 And now we can see the relative position of logic and mechanics.(The net might also consist of more than one kind of mesh: e.g. wecould use both triangles and hexagons.) The possibility of describing apicture like the one mentioned above with a net of a given form tells usnothing about the picture. (For that is true of all such pictures.)But what does characterize the picture is that it can be describedcompletely by a particular net with a particular size of mesh. Similarlythe possibility of describing the world by means of Newtonian mechanicstells us nothing about the world: but what does tell us something aboutit is the precise way in which it is possible to describe it by thesemeans. We are also told something about the world by the fact that itcan be described more simply with one system of mechanics than withanother.</text>
@@ -15694,7 +15733,7 @@ another.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.343 Mechanics is an attempt to construct according to a single plan</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.343 Mechanics is an attempt to construct according to a single planall the true propositions that we need for the description of the world.</text>
@@ -15713,12 +15752,11 @@ all the true propositions that we need for the description of the world.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465743" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3431 The laws of physics, with all their logical apparatus, still</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >118.5</attribute>
 <text >6.3431 The laws of physics, with all their logical apparatus, stillspeak, however indirectly, about the objects of the world.</text>
@@ -15742,7 +15780,7 @@ speak, however indirectly, about the objects of the world.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3432 We ought not to forget that any description of the world by means</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.3432 We ought not to forget that any description of the world by meansof mechanics will be of the completely general kind. For example, itwill never mention particular point-masses: it will only talk about anypoint-masses whatsoever.</text>
@@ -15764,11 +15802,13 @@ point-masses whatsoever.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465745" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.35 Although the spots in our picture are geometrical figures,</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.35 Although the spots in our picture are geometrical figures,nevertheless geometry can obviously say nothing at all about theiractual form and position. The network, however, is purely geometrical;all its properties can be given a priori. Laws like the principle ofsufficient reason, etc. are about the net and not about what the netdescribes.</text>
@@ -15796,7 +15836,7 @@ describes.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.36 If there were a law of causality, it might be put in the following</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.36 If there were a law of causality, it might be put in the followingway: There are laws of nature. But of course that cannot be said: itmakes itself manifest.</text>
@@ -15816,12 +15856,11 @@ makes itself manifest.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465747" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.361 One might say, using Hertt:&apos;s terminology, that only connexions</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.361 One might say, using Hertt:&apos;s terminology, that only connexionsthat are subject to law are thinkable.</text>
@@ -15840,12 +15879,11 @@ that are subject to law are thinkable.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465748" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3611 We cannot compare a process with &apos;the passage of time&apos;--there is</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.3611 We cannot compare a process with &apos;the passage of time&apos;--there isno such thing--but only with another process (such as the working of achronometer). Hence we can describe the lapse of time only by relying onsome other process. Something exactly analogous applies to space: e.g.when people say that neither of two events (which exclude one another)can occur, because there is nothing to cause the one to occur ratherthan the other, it is really a matter of our being unable to describeone of the two events unless there is some sort of asymmetry to befound. And if such an asymmetry is to be found, we can regard it as thecause of the occurrence of the one and the non-occurrence of the other.</text>
@@ -15872,12 +15910,11 @@ cause of the occurrence of the one and the non-occurrence of the other.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465749" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.36111 Kant&apos;s problem about the right hand and the left hand, which</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >120</attribute>
 <text >6.36111 Kant&apos;s problem about the right hand and the left hand, whichcannot be made to coincide, exists even in two dimensions. Indeed, itexists in one-dimensional space in which the two congruent figures,a and b, cannot be made to coincide unless they are moved out ofthis space. The right hand and the left hand are in fact completelycongruent. It is quite irrelevant that they cannot be made to coincide.A right-hand glove could be put on the left hand, if it could be turnedround in four-dimensional space.</text>
@@ -15903,11 +15940,13 @@ round in four-dimensional space.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465750" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.362 What can be described can happen too: and what the law of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.362 What can be described can happen too: and what the law ofcausality is meant to exclude cannot even be described.</text>
@@ -15931,7 +15970,7 @@ causality is meant to exclude cannot even be described.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.363 The procedure of induction consists in accepting as true the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.363 The procedure of induction consists in accepting as true thesimplest law that can be reconciled with our experiences.</text>
@@ -15950,12 +15989,11 @@ simplest law that can be reconciled with our experiences.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465752" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3631 This procedure, however, has no logical justification but only a</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.3631 This procedure, however, has no logical justification but only apsychological one. It is clear that there are no grounds for believingthat the simplest eventuality will in fact be realized.</text>
@@ -15975,12 +16013,11 @@ that the simplest eventuality will in fact be realized.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465753" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.36311 It is an hypothesis that the sun will rise tomorrow: and this</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.36311 It is an hypothesis that the sun will rise tomorrow: and thismeans that we do not know whether it will rise.</text>
@@ -16000,11 +16037,14 @@ means that we do not know whether it will rise.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
+</item>
 <item ID="3366465754" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.37 There is no compulsion making one thing happen because another has</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.37 There is no compulsion making one thing happen because another hashappened. The only necessity that exists is logical necessity.</text>
@@ -16023,12 +16063,11 @@ happened. The only necessity that exists is logical necessity.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465755" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.371 The whole modern conception of the world is founded on the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >121.5</attribute>
 <text >6.371 The whole modern conception of the world is founded on theillusion that the so-called laws of nature are the explanations ofnatural phenomena.</text>
@@ -16053,7 +16092,7 @@ natural phenomena.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.372 Thus people today stop at the laws of nature, treating them as</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >123</attribute>
 <text >6.372 Thus people today stop at the laws of nature, treating them assomething inviolable, just as God and Fate were treated in past ages.And in fact both are right and both wrong: though the view of theancients is clearer in so far as they have a clear and acknowledgedterminus, while the modern system tries to make it look as if everythingwere explained.</text>
@@ -16079,12 +16118,14 @@ were explained.\par
 </item>
 <item ID="3366465757" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:54:00+01:00</attribute>
+<attribute name="Name" >6.373 The world is independent of my will.</attribute>
+<attribute name="ReadCount" >2</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >123</attribute>
-<text >6.373 The world is independent of my will.</text>
+<text >6.373 The world is independent of my will.</text>
 <styles >
  <tstyle font="Hoefler Text" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -16095,20 +16136,21 @@ were explained.\par
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs32\cf0\ql\sb80\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
-6.373 The world is independent of my will.\par
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 6.373 The world is independent of my will.\par
 \par
 }}
 </rtf>
 </item>
 <item ID="3366465758" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:55:00+01:00</attribute>
+<attribute name="Name" >6.374 Even if all that we wish for were to happen, still this would</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >123</attribute>
-<text >6.374 Even if all that we wish for were to happen, still this wouldonly be a favour granted by fate, so to speak: for there is no logicalconnexion between the will and the world, which would guarantee it, andthe supposed physical connexion itself is surely not something that wecould will.</text>
+<text >6.374 Even if all that we wish for were to happen, still this wouldonly be a favour granted by fate, so to speak: for there is no logicalconnexion between the will and the world, which would guarantee it, andthe supposed physical connexion itself is surely not something that wecould will.</text>
 <styles >
  <tstyle font="Hoefler Text" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -16119,8 +16161,7 @@ were explained.\par
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs32\cf0\ql\sb80\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
-6.374 Even if all that we wish for were to happen, still this would\par
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 6.374 Even if all that we wish for were to happen, still this would\par
 only be a favour granted by fate, so to speak: for there is no logical\par
 connexion between the will and the world, which would guarantee it, and\par
 the supposed physical connexion itself is surely not something that we\par
@@ -16131,12 +16172,14 @@ could will.\par
 </item>
 <item ID="3366465759" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2010-09-04T17:55:00+01:00</attribute>
+<attribute name="Name" >6.375 Just as the only necessity that exists is logical necessity, so</attribute>
+<attribute name="ReadCount" >1</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >123</attribute>
-<text >6.375 Just as the only necessity that exists is logical necessity, sotoo the only impossibility that exists is logical impossibility.</text>
+<text >6.375 Just as the only necessity that exists is logical necessity, sotoo the only impossibility that exists is logical impossibility.</text>
 <styles >
  <tstyle font="Hoefler Text" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -16147,18 +16190,16 @@ could will.\par
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs32\cf0\ql\sb80\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
-6.375 Just as the only necessity that exists is logical necessity, so\par
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 6.375 Just as the only necessity that exists is logical necessity, so\par
 too the only impossibility that exists is logical impossibility.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465760" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.3751 For example, the simultaneous presence of two colours at the same</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >123</attribute>
 <text >6.3751 For example, the simultaneous presence of two colours at the sameplace in the visual field is impossible, in fact logically impossible,since it is ruled out by the logical structure of colour. Let us thinkhow this contradiction appears in physics: more or less as follows--aparticle cannot have two velocities at the same time; that is to say, itcannot be in two places at the same time; that is to say, particles thatare in different places at the same time cannot be identical. (Itis clear that the logical product of two elementary propositions canneither be a tautology nor a contradiction. The statement that a pointin the visual field has two different colours at the same time is acontradiction.)</text>
@@ -16187,11 +16228,14 @@ contradiction.)\par
 }}
 </rtf>
 </item>
+</item>
+</item>
+</item>
 <item ID="3366465761" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.4 All propositions are of equal value.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >123</attribute>
 <text >6.4 All propositions are of equal value.</text>
@@ -16209,12 +16253,11 @@ contradiction.)\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465762" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.41 The sense of the world must lie outside the world. In the world</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.41 The sense of the world must lie outside the world. In the worldeverything is as it is, and everything happens as it does happen: in itno value exists--and if it did exist, it would have no value. If thereis any value that does have value, it must lie outside the whole sphereof what happens and is the case. For all that happens and is the caseis accidental. What makes it non-accidental cannot lie within the world,since if it did it would itself be accidental. It must lie outside theworld.</text>
@@ -16244,7 +16287,7 @@ world.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.42 So too it is impossible for there to be propositions of ethics.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.42 So too it is impossible for there to be propositions of ethics.Propositions can express nothing that is higher.</text>
@@ -16263,12 +16306,11 @@ Propositions can express nothing that is higher.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465764" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.421 It is clear that ethics cannot be put into words. Ethics is</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.421 It is clear that ethics cannot be put into words. Ethics istranscendental. (Ethics and aesthetics are one and the same.)</text>
@@ -16292,7 +16334,7 @@ transcendental. (Ethics and aesthetics are one and the same.)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.422 When an ethical law of the form, &apos;Thou shalt...&apos; is laid down,</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.422 When an ethical law of the form, &apos;Thou shalt...&apos; is laid down,one&apos;s first thought is, &apos;And what if I do, not do it?&apos; It is clear,however, that ethics has nothing to do with punishment and reward in theusual sense of the terms. So our question about the consequences of anaction must be unimportant.--At least those consequences should not beevents. For there must be something right about the question we posed.There must indeed be some kind of ethical reward and ethical punishment,but they must reside in the action itself. (And it is also clear thatthe reward must be something pleasant and the punishment somethingunpleasant.)</text>
@@ -16324,7 +16366,7 @@ unpleasant.)\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.423 It is impossible to speak about the will in so far as it is</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.423 It is impossible to speak about the will in so far as it isthe subject of ethical attributes. And the will as a phenomenon is ofinterest only to psychology.</text>
@@ -16345,11 +16387,12 @@ interest only to psychology.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465767" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.43 If the good or bad exercise of the will does alter the world, it</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >124.5</attribute>
 <text >6.43 If the good or bad exercise of the will does alter the world, itcan alter only the limits of the world, not the facts--not what canbe expressed by means of language. In short the effect must be that itbecomes an altogether different world. It must, so to speak, wax andwane as a whole. The world of the happy man is a different one from thatof the unhappy man.</text>
@@ -16372,12 +16415,11 @@ of the unhappy man.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465768" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.431 So too at death the world does not alter, but comes to an end.</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.431 So too at death the world does not alter, but comes to an end.</text>
@@ -16395,12 +16437,11 @@ of the unhappy man.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465769" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.4311 Death is not an event in life: we do not live to experience</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.4311 Death is not an event in life: we do not live to experiencedeath. If we take eternity to mean not infinite temporal durationbut timelessness, then eternal life belongs to those who live in thepresent. Our life has no end in just the way in which our visual fieldhas no limits.</text>
@@ -16427,7 +16468,7 @@ has no limits.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.4312 Not only is there no guarantee of the temporal immortality of the</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.4312 Not only is there no guarantee of the temporal immortality of thehuman soul, that is to say of its eternal survival after death; but, inany case, this assumption completely fails to accomplish the purposefor which it has always been intended. Or is some riddle solved by mysurviving for ever? Is not this eternal life itself as much of a riddleas our present life? The solution of the riddle of life in space andtime lies outside space and time. (It is certainly not the solution ofany problems of natural science that is required.)</text>
@@ -16453,11 +16494,12 @@ any problems of natural science that is required.)\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465771" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.432 How things are in the world is a matter of complete indifference</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.432 How things are in the world is a matter of complete indifferencefor what is higher. God does not reveal himself in the world.</text>
@@ -16476,12 +16518,11 @@ for what is higher. God does not reveal himself in the world.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465772" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.4321 The facts all contribute only to setting the problem, not to its</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.4321 The facts all contribute only to setting the problem, not to itssolution.</text>
@@ -16501,11 +16542,13 @@ solution.\par
 }}
 </rtf>
 </item>
+</item>
+</item>
 <item ID="3366465773" Creator="system" >
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Name" >6.44 It is not how things are in the world that is mystical, but that it</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >126</attribute>
 <text >6.44 It is not how things are in the world that is mystical, but that itexists.</text>
@@ -16529,7 +16572,7 @@ exists.\par
 <attribute name="Created" >2010-09-04T16:43:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.45 To view the world sub specie aeterni is to view it as a whole--a</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >127.5</attribute>
 <text >6.45 To view the world sub specie aeterni is to view it as a whole--alimited whole. Feeling the world as a limited whole--it is this that ismystical.</text>
@@ -16549,6 +16592,7 @@ mystical.\par
 \par
 }}
 </rtf>
+</item>
 </item>
 <item ID="3366465775" Creator="system" >
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
@@ -16574,12 +16618,11 @@ framed at all, it is also possible to answer it.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465776" Creator="system" >
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.51 Scepticism is not irrefutable, but obviously nonsensical, when it</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >127.5</attribute>
 <text >6.51 Scepticism is not irrefutable, but obviously nonsensical, when ittries to raise doubts where no questions can be asked. For doubt canexist only where a question exists, a question only where an answerexists, and an answer only where something can be said.</text>
@@ -16605,7 +16648,7 @@ exists, and an answer only where something can be said.\par
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.52 We feel that even when all possible scientific questions have been</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >127.5</attribute>
 <text >6.52 We feel that even when all possible scientific questions have beenanswered, the problems of life remain completely untouched. Of coursethere are then no questions left, and this itself is the answer.</text>
@@ -16625,12 +16668,11 @@ there are then no questions left, and this itself is the answer.\par
 \par
 }}
 </rtf>
-</item>
 <item ID="3366465778" Creator="system" >
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.521 The solution of the problem of life is seen in the vanishing of</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >127.5</attribute>
 <text >6.521 The solution of the problem of life is seen in the vanishing ofthe problem. (Is not this the reason why those who have found after along period of doubt that the sense of life became clear to them havethen been unable to say what constituted that sense?)</text>
@@ -16656,7 +16698,7 @@ then been unable to say what constituted that sense?)\par
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.522 There are, indeed, things that cannot be put into words. They make</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >127.5</attribute>
 <text >6.522 There are, indeed, things that cannot be put into words. They makethemselves manifest. They are what is mystical.</text>
@@ -16676,11 +16718,12 @@ themselves manifest. They are what is mystical.\par
 }}
 </rtf>
 </item>
+</item>
 <item ID="3366465780" Creator="system" >
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.53 The correct method in philosophy would really be the following:</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >129</attribute>
 <text >6.53 The correct method in philosophy would really be the following:to say nothing except what can be said, i.e. propositions of naturalscience--i.e. something that has nothing to do with philosophy--andthen, whenever someone else wanted to say something metaphysical, todemonstrate to him that he had failed to give a meaning to certain signsin his propositions. Although it would not be satisfying to theother person--he would not have the feeling that we were teaching himphilosophy--this method would be the only strictly correct one.</text>
@@ -16710,7 +16753,7 @@ philosophy--this method would be the only strictly correct one.\par
 <attribute name="Created" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Modified" >2010-09-04T16:44:00+01:00</attribute>
 <attribute name="Name" >6.54 My propositions are elucidatory in this way: he who understands me</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >129</attribute>
 <text >6.54 My propositions are elucidatory in this way: he who understands mefinally recognizes them as senseless, when he has climbed out throughthem, on them, over them. (He must so to speak throw away the ladder,after he has climbed up on it.) He must transcend these propositions,and then he will see the world aright.</text>
@@ -16732,6 +16775,7 @@ and then he will see the world aright.\par
 \par
 }}
 </rtf>
+</item>
 </item>
 </item>
 <item ID="3366465782" Creator="system" >
@@ -16793,6 +16837,9 @@ and then he will see the world aright.\par
 <link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366466741" destcreator="system"  />
 <link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366466981" destcreator="system"  />
 <link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366467041" destcreator="system"  />
+<link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366467401" destcreator="system"  />
+<link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366467402" destcreator="system"  />
+<link name="prototype" sourceid="3366465795" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366467521" destcreator="system"  />
 </links>
 <macros >
 </macros>
@@ -16922,6 +16969,6 @@ and then he will see the world aright.\par
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3366465263" Creator="system" type="outline" bounds="Rect[ 12 78 512 428]" x="0" y="0" scale="5" expanded="3366465263 3366465286 3366465296 3366465299 3366465316 3366465318 3366465320 3366465321 3366465323 3366465327 3366465329 3366465334 3366465787 3366465676 " collapsed="3366465264 3366465265 3366465269 3366465271 3366465783 3366465272 3366465274 3366465277 3366465280 3366465282 3366465284 3366465290 3366465293 3366465302 3366465309 3366465313 3366465338 3366465786 3366465342 3366465349 3366465796 3366465353 3366465355 3366465359 3366465363 3366465366 3366465370 3366465797 3366465798 3366465799 3366465382 3366465383 3366465392 3366465401 3366465406 3366465407 3366465409 3366465412 3366465415 3366465416 3366465420 3366465800 3366465801 3366465423 3366465425 3366465429 3366465433 3366465441 3366465442 3366465446 3366465447 3366465451 3366465453 3366465456 3366465458 3366465459 3366465461 3366465468 3366465469 3366465473 3366465476 3366465478 3366465482 3366465484 3366465489 3366466441 3366465491 3366465492 3366465495 3366465502 3366465504 3366465505 3366465508 3366465510 3366465514 3366465515 3366465521 3366465523 3366465527 3366466681 3366465531 3366466741 3366465534 3366465538 3366465540 3366465541 3366465547 3366465551 3366465555 3366465556 3366465563 3366465566 3366465570 3366465572 3366465575 3366465577 3366465583 3366465586 3366465590 3366465593 3366465597 3366465599 3366465601 3366465602 3366465605 3366465607 3366465613 3366466981 3366465617 3366465622 3366465624 3366465630 3366465633 3366467041 3366465641 3366465644 3366465646 3366465650 3366465652 3366465655 3366465659 3366465663 3366467101 3366465666 3366465668 3366465671 3366465674 "  />
+<window ID="3366465263" Creator="system" type="outline" bounds="Rect[ 12 46 512 717]" x="0" y="0" scale="5" expanded="3366465263 3366465286 3366465296 3366465299 3366465316 3366465318 3366465320 3366465321 3366465323 3366465327 3366465329 3366465334 3366465787 3366465676 3366465736 3366465742 3366465748 3366465752 3366465759 " collapsed="3366465264 3366465265 3366465269 3366465271 3366465783 3366465272 3366465274 3366465277 3366465280 3366465282 3366465284 3366465290 3366465293 3366465302 3366465309 3366465313 3366465338 3366465786 3366465342 3366465349 3366465796 3366465353 3366465355 3366465359 3366465363 3366465366 3366465370 3366465797 3366465798 3366465799 3366465382 3366465383 3366465392 3366465401 3366465406 3366465407 3366465409 3366465412 3366465415 3366465416 3366465420 3366465800 3366465801 3366465423 3366465425 3366465429 3366465433 3366465441 3366465442 3366465446 3366465447 3366465451 3366465453 3366465456 3366465458 3366465459 3366465461 3366465468 3366465469 3366465473 3366465476 3366465478 3366465482 3366465484 3366465489 3366466441 3366465491 3366465492 3366465495 3366465502 3366465504 3366465505 3366465508 3366465510 3366465514 3366465515 3366465521 3366465523 3366465527 3366466681 3366465531 3366466741 3366465534 3366465538 3366465540 3366465541 3366465547 3366465551 3366465555 3366465556 3366465563 3366465566 3366465570 3366465572 3366465575 3366465577 3366465583 3366465586 3366465590 3366465593 3366465597 3366465599 3366465601 3366465602 3366465605 3366465607 3366465613 3366466981 3366465617 3366465622 3366465624 3366465630 3366465633 3366467041 3366465641 3366465644 3366465646 3366465650 3366465652 3366465655 3366465659 3366465663 3366467101 3366465666 3366465668 3366465671 3366465674 3366467401 3366467402 3366465681 3366465684 3366465686 3366465687 3366465691 3366467521 3366465696 3366465701 3366465706 3366465708 3366465714 3366465717 3366465718 3366465721 3366465723 3366465727 3366465729 3366465731 3366465733 3366465735 3366465739 3366465746 3366465747 3366465751 3366465754 3366465761 3366465763 3366465767 3366465768 3366465771 3366465775 3366465777 "  />
 </windows>
 </tinderbox>
