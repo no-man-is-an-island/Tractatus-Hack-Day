@@ -1,0 +1,28 @@
+body{
+ background:#333;
+ margin-top:50px;
+}
+
+#header, #footer{
+  text-align:center;
+  width:600px;
+  border:1px solid #eee;
+  padding:10px;
+  background:#ccc;
+  -moz-box-shadow: 0 0 1em #aee;
+  -webkit-box-shadow: 0 0 1em #aee;
+  box-shadow: 0 0 1em #aee;
+  color:#366;
+  -moz-border-radius: 50px ;
+  border-radius: 50px ;
+  font-size:18pt;
+  font-family:Arial;
+}
+
+#reading-area{
+  text-align:left;
+}
+
+#footer{
+  text-align:left;
+}
