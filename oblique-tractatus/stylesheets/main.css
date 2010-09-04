@@ -21,8 +21,8 @@ body{
 
 #reading_area{
   text-align:left;
-  height: 300px;
-  width:500px;
+  height: 350px;
+  width:460px;
   margin-top:50px;
   margin-bottom:50px;
   background:white;
@@ -30,6 +30,16 @@ body{
   -moz-box-shadow: 0 0 1em black;
   -webkit-box-shadow: 0 0 1em black;
   box-shadow: 0 0 1em black;
+  padding:0px;
+  line-height:120%;
+  font-size:22px;
+}
+
+#text_area{
+  overflow-y:scroll;
+  padding:15px;
+  height:248px;
+  border-top:2px solid #4a6;
 }
 
 #footer{
@@ -38,4 +48,19 @@ body{
   -moz-box-shadow: 0 0 1em gold;
   -webkit-box-shadow: 0 0 1em gold;
   box-shadow: 0 0 1em gold;
+}
+
+#reading_area form{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+form input{
+  height:50px;
+  background:#eee;
+  border-radius: 5px ;
+  -moz-border-radius: 5px ;
+  color: #333;
+  font-weight:bold;
+  width:150px;
 }

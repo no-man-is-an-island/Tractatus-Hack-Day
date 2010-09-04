@@ -1563,6 +1563,7 @@ pseudo-relations of logic, such as C and z, need brackets--unlike real
 relations. Indeed, the use of brackets with these apparently primitive
 signs is itself an indication that they are not primitive signs. And
 surely no one is going to believe brackets have an independent meaning.
+
 5.4611 Signs for logical operations are punctuation-marks.
 
 5.47 It is clear that whatever we can say in advance about the form
