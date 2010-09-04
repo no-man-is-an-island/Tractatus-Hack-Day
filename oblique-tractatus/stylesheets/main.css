@@ -8,7 +8,7 @@ body{
   width:600px;
   border:1px solid #eee;
   padding:10px;
-  background:#ccc;
+  background:#ddd;
   -moz-box-shadow: 0 0 1em #aee;
   -webkit-box-shadow: 0 0 1em #aee;
   box-shadow: 0 0 1em #aee;
@@ -19,10 +19,23 @@ body{
   font-family:Arial;
 }
 
-#reading-area{
+#reading_area{
   text-align:left;
+  height: 300px;
+  width:500px;
+  margin-top:50px;
+  margin-bottom:50px;
+  background:white;
+  border:5px dashed #4a6;
+  -moz-box-shadow: 0 0 1em black;
+  -webkit-box-shadow: 0 0 1em black;
+  box-shadow: 0 0 1em black;
 }
 
 #footer{
-  text-align:left;
+  text-align:center;
+  font-size:12px;
+  -moz-box-shadow: 0 0 1em gold;
+  -webkit-box-shadow: 0 0 1em gold;
+  box-shadow: 0 0 1em gold;
 }
