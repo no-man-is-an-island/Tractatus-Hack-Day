@@ -92,18 +92,58 @@ background:#ddddbd;
 margin-top:0px;
 margin-left:0.09in;
 margin-right:0.01in;
-padding-right:0.05in;
+padding: 5px;
 border:1px dotted #bbbb9D;
-width:5.55in;
+width:500px;
 }
 
 .stretch .stretch{
 background:#eeeecd;
-width:4.5in;
+width:100%;
 overflow:visible;
-margin-left:0px;
+margin-left:10px;
 margin-right:0px;
+margin-top: 10px;
+margin-bottom: 10px;
+padding: 5px;
 }
+
+.stretch .stretch .stretch{
+background:#CDCDCD;
+width:100%;
+overflow:visible;
+margin-left:10px;
+margin-right:0px;
+padding: 5px;
+}
+
+.stretch .stretch .stretch .stretch{
+background:#A8A8A8;
+width:100%;
+overflow:visible;
+margin-left:10px;
+margin-right:0px;
+padding: 5px;
+}
+
+.stretch .stretch .stretch .stretch .stretch{
+background:#8F8FBD;
+width:100%;
+overflow:visible;
+margin-left:10px;
+margin-right:0px;
+padding: 5px;
+}
+
+.stretch .stretch .stretch .stretch .stretch .stretch{
+background:#D19275;
+width:100%;
+overflow:visible;
+margin-left:10px;
+margin-right:0px;
+padding: 5px;
+}
+
 .context{
 background:#eeccaa;
 }
