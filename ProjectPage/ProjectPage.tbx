@@ -484,7 +484,7 @@
 <attribute name="Modified" >2010-02-10T18:08:47+01:00</attribute>
 <attribute name="Name" >about</attribute>
 <attribute name="ReadCount" >3</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-7</attribute>
 <attribute name="Ypos" >-2</attribute>
@@ -537,31 +537,26 @@ About the project}}
 <attribute name="Created" >2010-02-10T17:24:54+01:00</attribute>
 <attribute name="Height" >5</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-09-04T16:41:00+01:00</attribute>
-<attribute name="Name" >Design: I&apos;m Feeling Lucky</attribute>
-<attribute name="ReadCount" >8</attribute>
-<attribute name="SelectionCount" >55</attribute>
+<attribute name="Modified" >2010-09-05T08:11:00+01:00</attribute>
+<attribute name="Name" >The Oblique Tractatus</attribute>
+<attribute name="ReadCount" >18</attribute>
+<attribute name="SelectionCount" >71</attribute>
 <attribute name="Width" >5.5</attribute>
+<attribute name="WindowPlace" >Rect[ 51 50 864 434]</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >3</attribute>
-<attribute name="summary" >This is a summary</attribute>
+<attribute name="enabled" >true</attribute>
+<attribute name="image" >images/oblique.png</attribute>
+<attribute name="summary" >As a design exercise, we decided to imagine the Anti-Design of a computer version of a Tractatus. This, we decided, should have no continuity at all.</attribute>
 </item>
-<item ID="3366463261" Creator="system" >
-<attribute name="Created" >2010-09-04T16:41:00+01:00</attribute>
+<item ID="3366519061" Creator="system" >
+<attribute name="Created" >2010-09-05T08:11:00+01:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-09-04T16:41:00+01:00</attribute>
-<attribute name="Name" >Review 1</attribute>
-<attribute name="SelectionCount" >8</attribute>
-<attribute name="Xpos" >6</attribute>
-<attribute name="Ypos" >3</attribute>
-<attribute name="date" >2010-02-10T18:15:08+01:00</attribute>
-</item>
-<item ID="3366463321" Creator="system" >
-<attribute name="Created" >2010-09-04T16:42:00+01:00</attribute>
-<attribute name="Modified" >2010-09-04T16:42:00+01:00</attribute>
-<attribute name="Name" >Review 2</attribute>
-<attribute name="SelectionCount" >2</attribute>
-<attribute name="Xpos" >9.5</attribute>
+<attribute name="Modified" >2010-09-05T08:11:00+01:00</attribute>
+<attribute name="Name" >Stretchtext Tractatus</attribute>
+<attribute name="ReadCount" >3</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Xpos" >6.5</attribute>
 <attribute name="Ypos" >3</attribute>
 <attribute name="date" >2010-02-10T18:15:08+01:00</attribute>
 </item>
@@ -570,7 +565,7 @@ About the project}}
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-09-04T16:42:00+01:00</attribute>
 <attribute name="Name" >Review 3</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >13</attribute>
 <attribute name="Ypos" >3</attribute>
 <attribute name="date" >2010-02-10T18:15:08+01:00</attribute>
@@ -586,7 +581,7 @@ About the project}}
 <attribute name="MapScrollY" >-1.5</attribute>
 <attribute name="Modified" >2010-02-09T18:47:11+01:00</attribute>
 <attribute name="Name" >prototypes</attribute>
-<attribute name="SelectionCount" >46</attribute>
+<attribute name="SelectionCount" >47</attribute>
 <attribute name="Width" >5.5</attribute>
 <attribute name="Xpos" >-8</attribute>
 <attribute name="Ypos" >-2.5</attribute>
@@ -645,7 +640,7 @@ About the project}}
 <attribute name="NameFont" >copperplate</attribute>
 <attribute name="Pattern" >none</attribute>
 <attribute name="ReadCount" >2</attribute>
-<attribute name="SelectionCount" >60</attribute>
+<attribute name="SelectionCount" >62</attribute>
 <attribute name="Shadow" >false</attribute>
 <attribute name="Width" >6.5</attribute>
 <attribute name="Xpos" >-2</attribute>
@@ -657,6 +652,7 @@ About the project}}
 <attribute name="Color" >lightest yellow</attribute>
 <attribute name="Color2" >lightest yellow</attribute>
 <attribute name="Created" >2010-02-09T18:55:41+01:00</attribute>
+<attribute name="HTMLExportTemplate" >Macintosh HD:Users:nathan:Development:Tractatus-HackDay:Tractatus-Hack-Day:ProjectPage:templates:page.html</attribute>
 <attribute name="Height" >7</attribute>
 <attribute name="IsPrototype" >true</attribute>
 <attribute name="MapTextSize" >160</attribute>
@@ -665,7 +661,7 @@ About the project}}
 <attribute name="NameColor" >dark blue</attribute>
 <attribute name="NameFont" >copperplate</attribute>
 <attribute name="Pattern" >none</attribute>
-<attribute name="SelectionCount" >36</attribute>
+<attribute name="SelectionCount" >41</attribute>
 <attribute name="Width" >6.5</attribute>
 <attribute name="Xpos" >-2</attribute>
 <attribute name="Ypos" >-2</attribute>
@@ -696,6 +692,8 @@ About the project}}
 <link name="prototype" sourceid="3348586692" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348586730" destcreator="system"  />
 <link name="prototype" sourceid="3348588259" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348588327" destcreator="system"  />
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348667495" destcreator="system"  />
+<link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366519061" destcreator="system"  />
+<link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366463322" destcreator="system"  />
 </links>
 <macros >
 </macros>
@@ -755,8 +753,8 @@ About the project}}
    <HTMLViewFont > Lucida Grande</HTMLViewFont>
    <HTMLViewFontSize > 2</HTMLViewFontSize>
    <ExportTemplatePath > Macintosh HD:Users:nathan:Development:kgb:SuperBowlBlog:templates:page.html</ExportTemplatePath>
-   <ExportTemplate > ~/Desktop</ExportTemplate>
-   <ExportTextTemplate > ~/Desktop</ExportTextTemplate>
+   <ExportTemplate > Macintosh HD:Users:nathan:~/Desktop</ExportTemplate>
+   <ExportTextTemplate > Macintosh HD:Users:nathan:~/Desktop</ExportTextTemplate>
    <RoadmapWindowWidth > 0</RoadmapWindowWidth>
    <RoadmapWindowHeight > 0</RoadmapWindowHeight>
    <ExportTextCreator > 1</ExportTextCreator>
@@ -780,7 +778,7 @@ About the project}}
    <CurrentAttributeClass > Appearance</CurrentAttributeClass>
    <CurrentAttribute > Prototype</CurrentAttribute>
    <FindCaseSensitive > 1</FindCaseSensitive>
-   <ExportFolder > Macintosh HD:Users:nathan:Documents:Events:Tractatus-HackDay:Tractatus-Hack-Day:ProjectPage:export:</ExportFolder>
+   <ExportFolder > Macintosh HD:Users:nathan:Development:Tractatus-HackDay:Tractatus-Hack-Day:ProjectPage:export:</ExportFolder>
    <ReadOnly > 0</ReadOnly>
    <InfoWindowHeight > 0</InfoWindowHeight>
    <InfoWindowWidth > 0</InfoWindowWidth>
@@ -834,6 +832,6 @@ About the project}}
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 727 242 1262 610]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 44 1019 389]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
 </windows>
 </tinderbox>
