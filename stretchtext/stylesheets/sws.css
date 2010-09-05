@@ -16,6 +16,16 @@ html {
 	font-size:12pt;
 	font-family:Georgia;
 }
+
+#contents{
+  text-align:left;
+  width:650px;
+  background:#ffffdD;
+  padding-top:25px;
+  padding-bottom:25px;
+  border:1px dashed #c0c09f;
+}
+
 #textBody{
         border-right:1px dashed #c0c09f;
         background:#ffffdD;
@@ -38,8 +48,8 @@ line-height:110%;
 text-align:justify;
 }
 h1{
-font-weight: bold;font-size:130%;color:#995533; margin-left:-5px;
-margin-bottom:0px;
+font-weight: bold;font-size:150%;color:#995533; margin-left:10px;
+margin-bottom:10px;
 font-variant: small-caps;
 }
 h2{
