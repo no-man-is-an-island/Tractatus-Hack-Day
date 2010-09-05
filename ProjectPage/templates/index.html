@@ -1,18 +1,44 @@
 <html>
 <head>
 <link type="text/css" rel="stylesheet" media="screen" href="default.css"/>
+        <script language="Javascript" type="text/javascript" src="javascript/prototype.js"></script>
+        <script language="Javascript" type="text/javascript">
+
+
+var current_div;
+
+function initialize(){
+  current_div = $('Sensible Tag')
+}
+
+function newSection(){
+  current_div.hide()
+  taglines = $('taglines').childElements();
+  var rannum=Math.floor(Math.random()*(taglines.length));
+
+  current_div = taglines[rannum];
+  current_div.show();
+}
+          
+        </script>
 <title>Tratatus Hackday</title>
 </head>
-<body>
-
+<body onload='initialize();'>
+  
 <div align="center" id="layout">
-  <a href="index.html" class="header_link">
-  <div align="left" id="header">
+
+  <div align="left" id="header"  onclick="newSection();">
     <img src="images/graph-header.png" class="graph"/>
-    <div class="title">Tractatus Hackday</div>
-    <div class="tagline">WE NEED TO PUT A TAGLINE IN THE TEMPLATE</div>
+    <div class="title">Hacktatus</div>
+    <div id = 'Sensible Tag' class="tagline">A selection of innovative hypertexts for reading the Tractatus</div>
+    <div id='taglines'>
+      <div class="tagline" style='display:none;'>The crossover for 2010 that Disney executives thought would make most money</div>
+      <div class="tagline" style='display:none;'>The Zettelschrift strikes back</div>
+      <div class="tagline" style='display:none;'>Advancing Wittgenstein's Thought Leadership position</div>
+      <div class="tagline" style='display:none;'>Wittgenstein's Patented Elementary Propositions - Just add an atomic fact for instant truth!</div>
+    </div>
   </div>
-  </a>
+
  
   <div align="left" id="content">
   <div class="main"> 
@@ -24,8 +50,6 @@
   <div class="sidebar">
     <div class="item">
      ^include(about)^
-      <div class="title">Heroes</div>
-      <!--<a href="http://percona.com"><img src="images/Percona.jpg" width="200" height="65"/></a>-->
     </div>
   </div>
  <div class="contentfooter">

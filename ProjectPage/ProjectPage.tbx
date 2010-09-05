@@ -153,7 +153,7 @@
 </attrib>
 <attrib Name="HTMLExportFileName" parent="HTML" editable="1" visibleInEditor="1" default="" >
 </attrib>
-<attrib Name="HTMLExportTemplate" parent="HTML" editable="1" visibleInEditor="1" kind="6" type="3" default="Macintosh HD:Users:nathan:Development:kgb:SuperBowlBlog:templates:page.html" >
+<attrib Name="HTMLExportTemplate" parent="HTML" editable="1" visibleInEditor="1" kind="6" type="3" default="Macintosh HD:Users:davidwilliams:Documents:Coding:Tractatus-Hack-Day:ProjectPage:templates:page.html" >
 </attrib>
 <attrib Name="HTMLFileNameLowerCase" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
 </attrib>
@@ -457,8 +457,8 @@
 </linkTypes>
 <item ID="3348586029" Creator="system" >
 <attribute name="Created" >2010-02-09T18:47:06+01:00</attribute>
-<attribute name="MapScrollX" >4</attribute>
-<attribute name="MapScrollY" >-0.25</attribute>
+<attribute name="MapScrollX" >-3.5</attribute>
+<attribute name="MapScrollY" >-2.44444</attribute>
 <attribute name="Modified" >2010-02-09T18:47:06+01:00</attribute>
 <attribute name="Name" >ProjectPage</attribute>
 <attribute name="SelectionCount" >1</attribute>
@@ -473,7 +473,7 @@
 <attribute name="MapScrollY" >-1.94444</attribute>
 <attribute name="Modified" >2010-02-09T19:25:04+01:00</attribute>
 <attribute name="Name" >sidebar</attribute>
-<attribute name="SelectionCount" >48</attribute>
+<attribute name="SelectionCount" >50</attribute>
 <attribute name="Width" >5.5</attribute>
 <attribute name="Xpos" >-8</attribute>
 <attribute name="Ypos" >-1.5</attribute>
@@ -481,14 +481,14 @@
 <attribute name="Created" >2010-02-09T19:25:26+01:00</attribute>
 <attribute name="Height" >4</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-02-10T18:08:47+01:00</attribute>
+<attribute name="Modified" >2010-09-05T12:45:00+01:00</attribute>
 <attribute name="Name" >about</attribute>
-<attribute name="ReadCount" >3</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="ReadCount" >26</attribute>
+<attribute name="SelectionCount" >37</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-7</attribute>
 <attribute name="Ypos" >-2</attribute>
-<text >This is random text about me. This is random text about me. This is random text about me. This is random text about me. This is random text about me. </text>
+<text >David Williams is a Cambridge  Mathematician turned PhilosopherJ. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -499,7 +499,9 @@
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs24\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 This is random text about me. This is random text about me. This is random text about me. This is random text about me. This is random text about me. }}
+{\pard\plain\uc0\f0\fs24\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 David Williams is a Cambridge  Mathematician turned Philosopher\par
+\par
+J. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.}}
 </rtf>
 </item>
 </item>
@@ -511,14 +513,14 @@
 <attribute name="KeyAttributes" >tagline</attribute>
 <attribute name="MapScrollX" >1.30556</attribute>
 <attribute name="MapScrollY" >-2.97222</attribute>
-<attribute name="Modified" >2010-09-04T16:42:00+01:00</attribute>
+<attribute name="Modified" >2010-09-05T12:53:00+01:00</attribute>
 <attribute name="Name" >User Interfaces of the Tractatus</attribute>
-<attribute name="ReadCount" >6</attribute>
-<attribute name="SelectionCount" >97</attribute>
+<attribute name="ReadCount" >70</attribute>
+<attribute name="SelectionCount" >137</attribute>
 <attribute name="Width" >6</attribute>
 <attribute name="Xpos" >1</attribute>
 <attribute name="Ypos" >-2.5</attribute>
-<text >About the TractatusAbout the project</text>
+<text >The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.Our goal was to find ways to present the Tractatus that showed this tree structure more clearly than a linear text, and added reading and intratextual comparison. Below are the results (and some fun designs we built on the way)</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -529,9 +531,13 @@
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 About the Tractatus\par
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.\par
 \par
-About the project}}
+The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.\par
+\par
+It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.\par
+\par
+Our goal was to find ways to present the Tractatus that showed this tree structure more clearly than a linear text, and added reading and intratextual comparison. Below are the results (and some fun designs we built on the way)}}
 </rtf>
 <item ID="3348667495" Creator="system" >
 <attribute name="Created" >2010-02-10T17:24:54+01:00</attribute>
@@ -539,8 +545,8 @@ About the project}}
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-09-05T08:11:00+01:00</attribute>
 <attribute name="Name" >The Oblique Tractatus</attribute>
-<attribute name="ReadCount" >18</attribute>
-<attribute name="SelectionCount" >71</attribute>
+<attribute name="ReadCount" >19</attribute>
+<attribute name="SelectionCount" >74</attribute>
 <attribute name="Width" >5.5</attribute>
 <attribute name="WindowPlace" >Rect[ 51 50 864 434]</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -554,11 +560,14 @@ About the project}}
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-09-05T08:11:00+01:00</attribute>
 <attribute name="Name" >Stretchtext Tractatus</attribute>
-<attribute name="ReadCount" >3</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="ReadCount" >47</attribute>
+<attribute name="SelectionCount" >33</attribute>
 <attribute name="Xpos" >6.5</attribute>
 <attribute name="Ypos" >3</attribute>
 <attribute name="date" >2010-02-10T18:15:08+01:00</attribute>
+<attribute name="enabled" >true</attribute>
+<attribute name="image" >images/stretchtext.png</attribute>
+<attribute name="summary" >We built a really stretchy stretchtext version of the tractatus, like Mr. Fantastic - but a philosophy book. Check it out - it&apos;s stretchy!</attribute>
 </item>
 <item ID="3366463322" Creator="system" >
 <attribute name="Created" >2010-09-04T16:42:00+01:00</attribute>
@@ -694,6 +703,8 @@ About the project}}
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348667495" destcreator="system"  />
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366519061" destcreator="system"  />
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366463322" destcreator="system"  />
+<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="0" slen="14" style="0" destid="3348586029" destcreator="system" URL="http://no-man-is-an-island.github.com"  />
+<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="65" slen="16" style="0" destid="3348586029" destcreator="system" URL="http://natematias.com"  />
 </links>
 <macros >
 </macros>
@@ -752,9 +763,9 @@ About the project}}
    <HTMLParagraphStyle > 1</HTMLParagraphStyle>
    <HTMLViewFont > Lucida Grande</HTMLViewFont>
    <HTMLViewFontSize > 2</HTMLViewFontSize>
-   <ExportTemplatePath > Macintosh HD:Users:nathan:Development:kgb:SuperBowlBlog:templates:page.html</ExportTemplatePath>
-   <ExportTemplate > Macintosh HD:Users:nathan:~/Desktop</ExportTemplate>
-   <ExportTextTemplate > Macintosh HD:Users:nathan:~/Desktop</ExportTextTemplate>
+   <ExportTemplatePath > Macintosh HD:Users:davidwilliams:Documents:Coding:Tractatus-Hack-Day:ProjectPage:templates:page.html</ExportTemplatePath>
+   <ExportTemplate > Macintosh HD:Users:davidwilliams:Documents:Coding:Tractatus-Hack-Day:ProjectPage:templates:page.html</ExportTemplate>
+   <ExportTextTemplate > ~/Desktop</ExportTextTemplate>
    <RoadmapWindowWidth > 0</RoadmapWindowWidth>
    <RoadmapWindowHeight > 0</RoadmapWindowHeight>
    <ExportTextCreator > 1</ExportTextCreator>
@@ -778,7 +789,7 @@ About the project}}
    <CurrentAttributeClass > Appearance</CurrentAttributeClass>
    <CurrentAttribute > Prototype</CurrentAttribute>
    <FindCaseSensitive > 1</FindCaseSensitive>
-   <ExportFolder > Macintosh HD:Users:nathan:Development:Tractatus-HackDay:Tractatus-Hack-Day:ProjectPage:export:</ExportFolder>
+   <ExportFolder > Macintosh HD:Users:davidwilliams:Documents:Coding:Tractatus-Hack-Day:ProjectPage:export:</ExportFolder>
    <ReadOnly > 0</ReadOnly>
    <InfoWindowHeight > 0</InfoWindowHeight>
    <InfoWindowWidth > 0</InfoWindowWidth>
@@ -832,6 +843,8 @@ About the project}}
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 44 1019 389]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 46 1019 721]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="140" y="0" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
+<window ID="3348586730" Creator="system" type="text" bounds="Rect[ 50 50 750 350]" x="0" y="0" scale="1"  />
 </windows>
 </tinderbox>

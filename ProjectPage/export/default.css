@@ -5,6 +5,8 @@ body{
   font-family:verdana;
   font-size:12px;
   position:relative;
+  text-align: justify;
+
 }
 
 #layout{
@@ -124,6 +126,7 @@ body{
   width:470px;
   float:left;
   position:relative;
+
 }
 
 #content .contentfooter{
@@ -198,4 +201,5 @@ div.disabled{
   margin-top:10px;
   line-height:180%;
   padding-right:5px;
+  
 }

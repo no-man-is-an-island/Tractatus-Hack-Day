@@ -17,7 +17,7 @@ function newSection(){
 
   tractatus_divs = $('tractatus_divs').childElements();
   
-  var rannum=Math.floor(Math.random()*(tractatus_divs.length + 1));
+  var rannum=Math.floor(Math.random()*(tractatus_divs.length));
   current_div = tractatus_divs[rannum];
   current_div.show();
 }
@@ -41,8 +41,9 @@ function newSection(){
 
               <div id="text_area">
                 <div id="introduction">
-                    This is the introduction.
-                </div>
+                    Inspired by  <a href="http://www.rtqe.net/ObliqueStrategies/" target=Ò_newÓ>Oblique Strategies</a> and 'The Anti-Design' of <a href="http://oreilly.com/catalog/9780596804183" target=Ò_newÓ>Gamestorming</a>,
+                    we decided to design a version of the Tractatus that gives the reader the least context, lowest level of structural insight and fewest opportunities for comparison between different areas of the text.
+                    Try your luck by clicking the above button to receive a randomly selected passage from the Tractatus for your appreciation.</div>
                     
                 <div id="tractatus_divs">
                     <div style='display:none;'>1. The world is all that is the case.  
@@ -880,8 +881,6 @@ function newSection(){
                     </div>
                     <div style='display:none;'>6. The general form of a truth-function is [p, E, N(E)]. This is the general form of a proposition. 
                     </div>
-                    <div style='display:none;'>
-                    </div>
                     <div style='display:none;'>6.001 What this says is just that every proposition is a result of successive applications to elementary propositions of the operation N(E)  
                     </div>
                     <div style='display:none;'>6.002 If we are given the general form according to which propositions are constructed, then with it we are also given the general form according to which one proposition can be generated out of another by means of an operation.  
@@ -1099,8 +1098,8 @@ function newSection(){
            </div>
            
            <div id="footer">
-                <div>Written by <a href="http://en.wikipedia.org/wiki/Ludwig_Wittgenstein">Ludwig Wittgenstein</a>. Text of "<a href="http://www.gutenberg.org/etext/5740">Logico-Philosophicus</a>" from <a href="http://www.gutenberg.org/">Project Gutenberg</a>.</div>
-                <div>Design by <a href="http://no-man-is-an-island.github.com">David Williams</a> and <a href="http://natematias.com">J. Nathan Matias</a>, September 2010</div>
+                <div>Written by <a href="http://en.wikipedia.org/wiki/Ludwig_Wittgenstein" target=Ò_newÓ>Ludwig Wittgenstein</a>. Text of "<a href="http://www.gutenberg.org/etext/5740" target=Ò_newÓ>Logico-Philosophicus</a>" from <a href="http://www.gutenberg.org/" target=Ò_newÓ>Project Gutenberg</a>.</div>
+                <div>Design by <a href="http://no-man-is-an-island.github.com" target=Ò_newÓ>David Williams</a> and <a href="http://natematias.com" target=Ò_newÓ>J. Nathan Matias</a>, September 2010</div>
            </div>
         </div>
     </body>
