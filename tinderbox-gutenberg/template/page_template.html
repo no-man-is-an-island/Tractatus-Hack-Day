@@ -1,6 +1,29 @@
 <html>
   <head>
+    <title>^title</title>
     <link href="stylesheets/sws.css" rel="stylesheet" type="text/css"/>
+    <script language="Javascript" type="text/javascript" src="javascript/prototype.js"></script>
+    <script language="Javascript" type="text/javascript">
+
+function collapse_item(tbx_id){
+  $(tbx_id).down('.text').hide();
+  children = $(tbx_id).down('.children').childElements();
+  for(i = children.size()-1; i>=0; i--){
+    children[i].down('.text').hide();
+  }
+}
+
+function expand_item(tbx_id){
+  $(tbx_id).down('.text').show();
+  children = $(tbx_id).down('.children').childElements();
+  for(i = children.size()-1; i>=0; i--){
+    children[i].down('.text').show();
+  }
+}
+    </script>
+
+
+
   </head>
   <body>
     <div align="center">

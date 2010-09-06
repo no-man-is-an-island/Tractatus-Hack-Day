@@ -97,7 +97,34 @@ vertical-align:top;
 .contextToggle{
 position:relative;
 }
+
+.arrows{
+  display:inline-block;
+  position:absolute;
+  top:0px;
+  right:0px;
+  height:10px;
+  width:25px;
+  margin:0px;
+  padding:0px;
+}
+
+.arrows img{
+  border:0px;
+  height:10px;
+  width:10px;
+  margin:0px;
+}
+
+.arrows a{
+  width:10px;
+  height:10px;
+  margin:0px;
+  padding:0px;
+}
+
 .stretchtext_note{
+position:relative;
 background:#ddddbd;
 margin-top:0px;
 margin-left:0.09in;
@@ -107,6 +134,10 @@ border:1px dotted #bbbb9D;
 width:500px;
   -moz-box-shadow: 0 0 0.6em black;
   -webkit-box-shadow: 0 0 0.6em black;
+}
+
+div.collapsed_note{
+  width:50px;
 }
 
 .stretchtext_note .stretchtext_note{
@@ -191,3 +222,4 @@ font-size:70%;
 margin-top:0px;
 margin-bottom:-25px;
 }
+
