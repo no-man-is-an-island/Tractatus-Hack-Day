@@ -513,15 +513,15 @@ J. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.
 <attribute name="KeyAttributes" >tagline</attribute>
 <attribute name="MapScrollX" >1.30556</attribute>
 <attribute name="MapScrollY" >-2.97222</attribute>
-<attribute name="Modified" >2010-09-06T11:54:00+01:00</attribute>
+<attribute name="Modified" >2010-09-06T12:11:00+01:00</attribute>
 <attribute name="Name" >User Interfaces of the Tractatus</attribute>
-<attribute name="ReadCount" >80</attribute>
-<attribute name="SelectionCount" >148</attribute>
+<attribute name="ReadCount" >83</attribute>
+<attribute name="SelectionCount" >152</attribute>
 <attribute name="Width" >6</attribute>
 <attribute name="WindowPlace" >Rect[ 50 50 763 492]</attribute>
 <attribute name="Xpos" >1</attribute>
 <attribute name="Ypos" >-2.5</attribute>
-<text >The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.</text>
+<text >The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.&lt;p align=&quot;right&quot;&gt;David Williams &amp; J. Nathan Matias&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;6 Sept 2010&lt;/p&gt;</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -538,14 +538,17 @@ The Tractatus is an ambitious project to define the relationships between Philos
 \par
 It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.\par
 \par
-To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.}}
+To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.\par
+&lt;p align=&quot;right&quot;&gt;David Williams &amp; J. Nathan Matias&lt;/p&gt;\par
+&lt;p align=&quot;right&quot;&gt;6 Sept 2010&lt;/p&gt;\par
+}}
 </rtf>
 <item ID="3366463322" Creator="system" >
 <attribute name="Created" >2010-09-04T16:42:00+01:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-09-04T16:42:00+01:00</attribute>
 <attribute name="Name" >Current digital editions of the Tractatus</attribute>
-<attribute name="ReadCount" >14</attribute>
+<attribute name="ReadCount" >18</attribute>
 <attribute name="SelectionCount" >18</attribute>
 <attribute name="Xpos" >13</attribute>
 <attribute name="Ypos" >3</attribute>
@@ -858,9 +861,7 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 46 1019 721]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
 <window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="0" y="158" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
-<window ID="3366463322" Creator="system" type="text" bounds="Rect[ 50 50 750 350]" x="0" y="0" scale="1"  />
-<window ID="3348586730" Creator="system" type="text" bounds="Rect[ 50 50 763 492]" x="0" y="0" scale="1"  />
+<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 46 1019 721]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
 </windows>
 </tinderbox>
