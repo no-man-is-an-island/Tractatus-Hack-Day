@@ -19,7 +19,6 @@ body{
 #layout #content, #layout #footer, #layout #header{
   display:block;
   width:700px;
-  border:2px solid white;
   padding:14px;
   position:relative;
 }
@@ -39,9 +38,10 @@ body{
 }
 
 #layout div#footer{
+  border: 2px solid #aaa;
   margin-top:5px;
-  background:#7799aa;
-  font-size:11px;
+  background:#d8e4ab;
+  font-size:10px;
 }
 
 #layout div#header{
