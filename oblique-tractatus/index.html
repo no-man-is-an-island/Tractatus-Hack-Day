@@ -13,15 +13,15 @@ function initialize(){
 }
 
 function newSection(){
-  current_div.hide();
 
-  tractatus_divs = document.getElementById("tractatus_divs").childNodes;
+  tract_divs = tractatus_divs.childNodes
   current_div = document.getElementById("tractatus_divs")
   while (current_div.className  != "tractatus_div"){
-  var rannum=Math.floor(Math.random()*(tractatus_divs.length));
-  current_div = tractatus_divs[rannum];
+  var rannum=Math.floor(Math.random()*(tract_divs.length));
+  current_div = tract_divs.item(rannum);
   }
-  current_div.show();
+  $('introduction').innerHTML = current_div.innerHTML
+
 }
           
         </script>
