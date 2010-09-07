@@ -13,10 +13,14 @@ function initialize(){
 
 function newSection(){
   current_div.hide()
-  taglines = $('taglines').childElements();
-  var rannum=Math.floor(Math.random()*(taglines.length));
+  taglines = document.getElementById("taglines").childNodes;
 
-  current_div = taglines[rannum];
+  current_div = document.getElementById("taglines")
+  while (current_div.className  != "tagline"){
+    var rannum=Math.floor(Math.random()*(taglines.length));
+
+    current_div = taglines[rannum];
+  }
   current_div.show();
 }
           
@@ -42,7 +46,7 @@ function newSection(){
  
   <div align="left" id="content">
   <div class="main"> 
-   <p>The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell's books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.</p><p>The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.</p><p>It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called 'ZettelSchrift' which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.</p><p>To learn more about 'Zettelschrift' and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.</p>
+   <p>The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell's books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.</p><p>The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.</p><p>It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called 'ZettelSchrift' which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.</p><p>To learn more about 'Zettelschrift' and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.</p><p align="right">David Williams &amp; J. Nathan Matias</p><p align="right">6 Sept 2010</p>
    
     <div class="post_thumb disabled">
       <div align="center">

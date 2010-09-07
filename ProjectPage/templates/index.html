@@ -13,10 +13,14 @@ function initialize(){
 
 function newSection(){
   current_div.hide()
-  taglines = $('taglines').childElements();
-  var rannum=Math.floor(Math.random()*(taglines.length));
+  taglines = document.getElementById("taglines").childNodes;
 
-  current_div = taglines[rannum];
+  current_div = document.getElementById("taglines")
+  while (current_div.className  != "tagline"){
+    var rannum=Math.floor(Math.random()*(taglines.length));
+
+    current_div = taglines[rannum];
+  }
   current_div.show();
 }
           
