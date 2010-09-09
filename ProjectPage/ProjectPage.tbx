@@ -473,7 +473,7 @@
 <attribute name="MapScrollY" >-1.94444</attribute>
 <attribute name="Modified" >2010-02-09T19:25:04+01:00</attribute>
 <attribute name="Name" >sidebar</attribute>
-<attribute name="SelectionCount" >51</attribute>
+<attribute name="SelectionCount" >54</attribute>
 <attribute name="Width" >5.5</attribute>
 <attribute name="Xpos" >-8</attribute>
 <attribute name="Ypos" >-1.5</attribute>
@@ -513,15 +513,15 @@ J. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.
 <attribute name="KeyAttributes" >tagline</attribute>
 <attribute name="MapScrollX" >1.30556</attribute>
 <attribute name="MapScrollY" >-2.97222</attribute>
-<attribute name="Modified" >2010-09-06T12:11:00+01:00</attribute>
+<attribute name="Modified" >2010-09-06T14:08:00+01:00</attribute>
 <attribute name="Name" >User Interfaces of the Tractatus</attribute>
-<attribute name="ReadCount" >83</attribute>
-<attribute name="SelectionCount" >152</attribute>
+<attribute name="ReadCount" >106</attribute>
+<attribute name="SelectionCount" >244</attribute>
 <attribute name="Width" >6</attribute>
 <attribute name="WindowPlace" >Rect[ 50 50 763 492]</attribute>
 <attribute name="Xpos" >1</attribute>
 <attribute name="Ypos" >-2.5</attribute>
-<text >The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.&lt;p align=&quot;right&quot;&gt;David Williams &amp; J. Nathan Matias&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;6 Sept 2010&lt;/p&gt;</text>
+<text >The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. He first read a philosophy book while was studying for a doctorate in Aeronautics in ~1910. Within a few short years, he went from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting them, befriending them (somewhat begrudgingly on their part) and then finally to writing and publishing the Tractatus, a commentary and extension of their ideas.The Tractatus is an ambitious project, aiming to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate (rather than simply define) the limits and the nature of language, and to clarify the role of phiosophy.It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos;, in which the passages are arranged by relative importance in a tree-like structure. Consequently, the Tractatus has been a frequent candidate for adaptation to Hypertext.Writing &apos;ZettelSchrift&apos; was also like writing hypertext. Whenever he had ideas, Wittgenstein would write short paragraphs in his notebooks. To write the book, he essentially lifted passages from his notebooks, reordered them by importance, and inserted them into the text (with some editing).To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.&lt;p align=&quot;right&quot;&gt;David Williams &amp; J. Nathan Matias&lt;/p&gt;&lt;p align=&quot;right&quot;&gt;6 Sept 2010&lt;/p&gt;</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
@@ -532,12 +532,13 @@ J. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.
 \red0\green0\blue0;}
 {\info}
 \deftab720
-{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. First picking up a philosophy book in around 1910 (he was studying for a doctorate in Aeronautics at the time), Wittgenstein went in a few short years from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting and (somewhat begrudgingly on their part) befriending them and then finally to writing and publishing the Tractatus, a commentary on and extension of their ideas.\par
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 The Tractatus Logico-Philosophicus of Ludwig Wittgenstein is without doubt one of the seminal philosophical works of this century. He first read a philosophy book while was studying for a doctorate in Aeronautics in ~1910. Within a few short years, he went from reading Frege and Russell&apos;s books on Logic and Mathematics to meeting them, befriending them (somewhat begrudgingly on their part) and then finally to writing and publishing the Tractatus, a commentary and extension of their ideas.\par
 \par
-The Tractatus is an ambitious project to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate rather than define the limits and the nature of language, and to clarify the role of phiosophy.\par
+The Tractatus is an ambitious project, aiming to define the relationships between Philosophy, Language and the World. In doing this, Wittgenstein hoped to demonstrate (rather than simply define) the limits and the nature of language, and to clarify the role of phiosophy.\par
 \par
-It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos; which has made it a regular candidate for adaptation to Hypertext format. Wittgenstein would write his ideas in short paragraphs in notebooks whenever he had them. When he came to write the book he essentially lifted passages from his notebooks and ordered them (with some editing). Finally, he numbered the passages in terms of relative importance in a tree-like structure.\par
+It is our belief that Wittgenstein would have used Hypertext to prepare the Tractatus if he were writing it today. The text was written using a technique called &apos;ZettelSchrift&apos;, in which the passages are arranged by relative importance in a tree-like structure. Consequently, the Tractatus has been a frequent candidate for adaptation to Hypertext.\par
 \par
+Writing &apos;ZettelSchrift&apos; was also like writing hypertext. Whenever he had ideas, Wittgenstein would write short paragraphs in his notebooks. To write the book, he essentially lifted passages from his notebooks, reordered them by importance, and inserted them into the text (with some editing).\par
 To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Saturday experimenting with innovative designs for the Tractatus. Over the next few weeks we will add screenshots and commentary on the outcome.\par
 &lt;p align=&quot;right&quot;&gt;David Williams &amp; J. Nathan Matias&lt;/p&gt;\par
 &lt;p align=&quot;right&quot;&gt;6 Sept 2010&lt;/p&gt;\par
@@ -546,15 +547,76 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
 <item ID="3366463322" Creator="system" >
 <attribute name="Created" >2010-09-04T16:42:00+01:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-09-04T16:42:00+01:00</attribute>
+<attribute name="Modified" >2010-09-09T19:23:00+01:00</attribute>
 <attribute name="Name" >Current digital editions of the Tractatus</attribute>
-<attribute name="ReadCount" >18</attribute>
-<attribute name="SelectionCount" >18</attribute>
+<attribute name="ReadCount" >218</attribute>
+<attribute name="SelectionCount" >133</attribute>
+<attribute name="TextSidebar" >false</attribute>
+<attribute name="WindowPlace" >Rect[ 747 44 1224 720]</attribute>
 <attribute name="Xpos" >13</attribute>
 <attribute name="Ypos" >3</attribute>
-<attribute name="date" >2010-02-10T18:15:08+01:00</attribute>
+<attribute name="date" >2010-09-09T19:25:00+01:00</attribute>
+<attribute name="enabled" >true</attribute>
 <attribute name="image" >images/current_digital_versions.png</attribute>
 <attribute name="summary" >As part of our design exercise, we collected as many of the online editions of the Tractatus which we could find. Here is a review.</attribute>
+<text >Since Wittgenstein&apos;s Tractatus is written in a numerical hierarchy, it has often been the subject of simple hypertext projects like our own. We were surprised that our design values differed significantly from these projects. We were equally delighted to see how other designers approached those goals.David and I decided to focus our design on comparison and flow, trying to match Wittgenstein&apos;s stated intentions. In a footnote, he explains that the hierarchy is intended to emphasize relative importance and sequence. Furthermore, the text&apos;s didactic style needs explicit structure if it is to be anything greater than a collection of aphorisms. An interface which permits comparison and flow provides that structure.&lt;div class=&quot;sidenote&quot;&gt;In our early design experiments, we used color to denote relative importance. In another, we used a treemap to display the entire structure (and some of the text) at once.&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4958395634/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4100/4958395634_74fb76233d_t.jpg&quot;/&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4962886243/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4088/4962886243_c725093ca4_t.jpg&quot;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;More information about our designs is available on The Hacktatus main page.Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to hide context and break up the text, presenting individual notes without context, or hiding large parts of the text.Most of these editions permit users to* Click to see the immediate child* Click to see the immediate parent* Read some next/previous statements of a similar importanceFew of them permit the tracing of a term or concept through the text. They rarely indicate where in the tree a reader is. And short of opening up two web browser windows, none of them the permit comparison of sections.&lt;div class=&quot;sidenote&quot;&gt;(We only realized much later that the design features of these digital editions closely resembled the objectives of our anti-design exercise: The Oblique Tractatus.)&lt;/div&gt;Nonetheless, the Tractatus has elicited a large number of very creative designs:* &lt;a name =&quot;vanderdoes&quot; href=&quot;http://www.flickr.com/photos/natematias/4974041141/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4146/4974041141_d3374b24af_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jaap van der Does uses a javascript toolbar and search to help readers navigate his plain text version of the Tractatus.* &lt;a name =&quot;satohsin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655872/in/set-72157624917575658/lightbox/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655872_ee5aaf7ba6_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt;  Satoh Sin has made an English-Japanese edition which employs stretchtext. This design is innovative for its use of horizontal and vertical rules to indicate the expansion level. * &lt;a name =&quot;bazzocchi&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655982/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655982_935f3b14b8_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Luciano Bazzocchi, who apparently did his PhD at the University of Pisa, has posted a linked web version of the Tractatus on his website. He has also written scholarly articles on the Tractatus Hypertext, and Wittgenstein&apos;s writing habits. Bazzocchi is the only actual Wittgenstein scholar we know who has produced a hypertext edition.* &lt;a name=&quot;laventhol&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656104/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4105/4974656104_5d8d66c594_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jonathan Laventhol created a hypertext edition of the Ogden translation of the Tractatus. Like us, Laventhol added empty notes into the Tractatus to present a consistent structure. Laventhol is the edition which has been around the longest, is the most convention, bug free, and therefore is the most linked on scholarly websites. Laventhol has also produced a beautiful Site Map of the Tractatus.* &lt;a name=&quot;pasin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656170/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4125/4974656170_4a3f1ca0e7_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; PhiloSURFical is a strange and wonderful  (and abandoned) Semantic Web system by Michael Pasin which shows the Tractatus in tabs. There are also several phantom editions at the time of writing ( 9 Sept 2010).* The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford Philosophy website at one time (http://midas.thphys.ox.ac.uk:8001/the_tractatus)Additional notes:* We think it&apos;s fascinating that Terry Eagleton wrote extensively about Wittgenstein.* We are sad that so many big lists of Wittgenstein resources are out of date.</text>
+<styles >
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="346" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="356" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="361" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="365" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="488" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="507" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="512" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="520" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="546" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="554" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1408" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1412" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1413" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1420" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1425" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1433" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1434" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1442" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="2077" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2099" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="4775" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="4822" size="16" height="0" ascent="0" color="#000000"  />
+</styles>
+<rtf >{\rtf1\mac
+{\fonttbl
+{\f0\fnil\fcharset77 Lucida Grande;}}
+{\colortbl
+\red0\green0\blue0;}
+{\info}
+\deftab720
+{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Since Wittgenstein&apos;s Tractatus is written in a numerical hierarchy, it has often been the subject of simple hypertext projects like our own. We were surprised that our design values differed significantly from these projects. We were equally delighted to see how other designers approached those goals.\par
+David and I decided to focus our design on {\b comparison} and {\b flow}, trying to match Wittgenstein&apos;s stated intentions. In a footnote, he explains that the hierarchy is intended to emphasize {\b relative importance} and {\b sequence}. Furthermore, the text&apos;s {\b didactic} style needs explicit structure if it is to be anything greater than a collection of aphorisms. An interface which permits comparison and flow provides that structure.\par
+&lt;div class=&quot;sidenote&quot;&gt;In our early design experiments, we used color to denote relative importance. In another, we used a treemap to display the entire structure (and some of the text) at once.&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4958395634/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4100/4958395634_74fb76233d_t.jpg&quot;/&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4962886243/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4088/4962886243_c725093ca4_t.jpg&quot;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;\par
+More information about our designs is available on The Hacktatus main page.\par
+Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to {\b hide} {\b context} and {\b break up} {\b the text}, presenting individual notes without context, or hiding large parts of the text.\par
+Most of these editions permit users to\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Click to see the immediate child\par
+* Click to see the immediate parent\par
+* Read some next/previous statements of a similar importance\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Few of them permit the tracing of a term or concept through the text. They rarely indicate where in the tree a reader is. And short of opening up two web browser windows, none of them the permit comparison of sections.\par
+&lt;div class=&quot;sidenote&quot;&gt;(We only realized much later that the design features of these digital editions closely resembled the objectives of our anti-design exercise:{\i  The Oblique Tractatus}.)&lt;/div&gt;\par
+Nonetheless, the Tractatus has elicited a large number of very creative designs:\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * &lt;a name =&quot;vanderdoes&quot; href=&quot;http://www.flickr.com/photos/natematias/4974041141/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4146/4974041141_d3374b24af_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jaap van der Does uses a javascript toolbar and search to help readers navigate his plain text version of the Tractatus.\par
+* &lt;a name =&quot;satohsin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655872/in/set-72157624917575658/lightbox/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655872_ee5aaf7ba6_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt;  Satoh Sin has made an English-Japanese edition which employs stretchtext. This design is innovative for its use of horizontal and vertical rules to indicate the expansion level. \par
+* &lt;a name =&quot;bazzocchi&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655982/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655982_935f3b14b8_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Luciano Bazzocchi, who apparently did his PhD at the University of Pisa, has posted a linked web version of the Tractatus on his website. He has also written scholarly articles on the Tractatus Hypertext, and Wittgenstein&apos;s writing habits. Bazzocchi is the only actual Wittgenstein scholar we know who has produced a hypertext edition.\par
+* &lt;a name=&quot;laventhol&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656104/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4105/4974656104_5d8d66c594_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jonathan Laventhol created a hypertext edition of the Ogden translation of the Tractatus. Like us, Laventhol added empty notes into the Tractatus to present a consistent structure. Laventhol is the edition which has been around the longest, is the most convention, bug free, and therefore is the most linked on scholarly websites. Laventhol has also produced a beautiful Site Map of the Tractatus.\par
+* &lt;a name=&quot;pasin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656170/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4125/4974656170_4a3f1ca0e7_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; PhiloSURFical is a strange and wonderful  (and abandoned) Semantic Web system by Michael Pasin which shows the Tractatus in tabs. \par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 There are also several phantom editions at the time of writing ( 9 Sept 2010).\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford Philosophy website at one time ({\i http://midas.thphys.ox.ac.uk:8001/the_tractatus})\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
+\par
+Additional notes:\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * We think it&apos;s fascinating that Terry Eagleton wrote extensively about Wittgenstein.\par
+* We are sad that so many big lists of Wittgenstein resources are out of date.}}
+</rtf>
 </item>
 <item ID="3348667495" Creator="system" >
 <attribute name="Created" >2010-02-10T17:24:54+01:00</attribute>
@@ -723,6 +785,23 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
 <link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="0" slen="14" style="0" destid="3348586029" destcreator="system" URL="http://no-man-is-an-island.github.com"  />
 <link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="65" slen="16" style="0" destid="3348586029" destcreator="system" URL="http://natematias.com"  />
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366618001" destcreator="system"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2821" slen="54" style="0" destid="3348586029" destcreator="system" URL="http://tractatus-online.appspot.com/Tractatus_en.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4680" slen="9" style="0" destid="3348586029" destcreator="system" URL="http://www.digitalhumanities.org/humanist/Archives/Virginia/v08/0129.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3308" slen="35" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/wittgenstein/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3390" slen="70" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/pubblicazioni/index.htm"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3798" slen="18" style="0" destid="3348586029" destcreator="system" URL="http://www.laventhol.com/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3825" slen="61" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/tlph.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4877" slen="51" style="0" destid="3348586029" destcreator="system" URL="http://www.complete-review.com/reviews/wittgenl/tescript.htm"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4533" slen="27" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/tractatus/tabs.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4432" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4513" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://www.michelepasin.org/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2511" slen="39" style="0" destid="3348586029" destcreator="system" URL="http://tlp.vddoes.net/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2431" slen="17" style="0" destid="3348586029" destcreator="system" URL="http://www.vddoes.net/vanderdoes/Welcome.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4157" slen="37" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/mapen.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="777" slen="43" style="0" destid="3348586029" destcreator="system" URL="http://www.flickr.com/photos/natematias/4958395634/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="834" slen="49" style="0" destid="3348586029" destcreator="system" URL="http://www.flickr.com/photos/natematias/4962886243/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348586730" destcreator="system"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2078" slen="21" style="0" destid="3348586029" destcreator="system" URL="natematias.com/projects/tractatus/oblique"  />
 </links>
 <macros >
 </macros>
@@ -861,7 +940,8 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="0" y="158" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
-<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 626 46 1019 721]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="1" y="157" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
+<window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 270 44 663 719]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3366463322" Creator="system" type="text" bounds="Rect[ 747 44 1224 720]" x="0" y="0" scale="1"  />
 </windows>
 </tinderbox>
