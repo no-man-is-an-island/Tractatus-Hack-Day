@@ -109,11 +109,11 @@ body{
 .sidebar .item{
   color:black;
   font-size:11px;
+  line-height:160%;
 }
 
 .sidebar a{
-  display:inline-block;
-  margin-bottom:5px;
+  display:inline;
 }
 
 .sidebar a img{
@@ -217,6 +217,10 @@ div.disabled{
   line-height:160%;
   padding-right:5px;
   
+}
+
+.main b{
+  color:#333;
 }
 
 li{
