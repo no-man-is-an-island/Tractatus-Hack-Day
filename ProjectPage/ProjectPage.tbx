@@ -483,17 +483,19 @@
 <attribute name="Created" >2010-02-09T19:25:26+01:00</attribute>
 <attribute name="Height" >4</attribute>
 <attribute name="IsPrototype" >false</attribute>
-<attribute name="Modified" >2010-09-09T19:49:00+01:00</attribute>
+<attribute name="Modified" >2010-09-09T19:52:00+01:00</attribute>
 <attribute name="Name" >About Us</attribute>
-<attribute name="ReadCount" >39</attribute>
-<attribute name="SelectionCount" >51</attribute>
+<attribute name="ReadCount" >43</attribute>
+<attribute name="SelectionCount" >56</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="WindowPlace" >Rect[ 708 184 1408 484]</attribute>
 <attribute name="Xpos" >-7</attribute>
 <attribute name="Ypos" >-2</attribute>
-<text >David Williams is a Cambridge  Mathematician turned PhilosopherJ. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.The HackTatus is the outcome of a day-long design exercise we did together. We formerly worked together on Comparing Spatial Hypertext Collections (ACM Hypertext 2009, Turin Italy) and the Emberlight project.</text>
+<text >David Williams is a Cambridge  Mathematician turned PhilosopherJ. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.The HackTatus is the outcome of a day-long design exercise we did together. We formerly worked together on &quot;Comparing Spatial Hypertext Collections&quot; (ACM Hypertext 2009, Turin Italy) and the Emberlight project.</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="12" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="297" size="12" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="328" size="12" height="0" ascent="0" color="#000000"  />
 </styles>
 <rtf >{\rtf1\mac
 {\fonttbl
@@ -506,7 +508,7 @@
 \par
 J. Nathan Matias an Educator, Software Engineer and Creative based in Cambridge.\par
 \par
-The HackTatus is the outcome of a day-long design exercise we did together. We formerly worked together on Comparing Spatial Hypertext Collections (ACM Hypertext 2009, Turin Italy) and the Emberlight project.}}
+The HackTatus is the outcome of a day-long design exercise we did together. We formerly worked together on &quot;Comparing Spatial Hypertext Collections&quot; ({\i ACM Hypertext 2009, Turin Italy}) and the Emberlight project.}}
 </rtf>
 </item>
 </item>
@@ -520,8 +522,8 @@ The HackTatus is the outcome of a day-long design exercise we did together. We f
 <attribute name="MapScrollY" >-2.97222</attribute>
 <attribute name="Modified" >2010-09-06T14:08:00+01:00</attribute>
 <attribute name="Name" >User Interfaces of the Tractatus</attribute>
-<attribute name="ReadCount" >106</attribute>
-<attribute name="SelectionCount" >276</attribute>
+<attribute name="ReadCount" >107</attribute>
+<attribute name="SelectionCount" >317</attribute>
 <attribute name="Width" >6</attribute>
 <attribute name="WindowPlace" >Rect[ 50 50 763 492]</attribute>
 <attribute name="Xpos" >1</attribute>
@@ -554,10 +556,10 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
 <attribute name="Created" >2010-09-04T16:42:00+01:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="KeyAttributes" >date;enabled;image;summary;Author</attribute>
-<attribute name="Modified" >2010-09-09T19:44:00+01:00</attribute>
+<attribute name="Modified" >2010-09-09T20:01:00+01:00</attribute>
 <attribute name="Name" >Current digital editions of the Tractatus</attribute>
-<attribute name="ReadCount" >269</attribute>
-<attribute name="SelectionCount" >141</attribute>
+<attribute name="ReadCount" >309</attribute>
+<attribute name="SelectionCount" >144</attribute>
 <attribute name="TextSidebar" >false</attribute>
 <attribute name="WindowPlace" >Rect[ 744 48 1221 724]</attribute>
 <attribute name="Xpos" >13</attribute>
@@ -566,7 +568,7 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
 <attribute name="enabled" >true</attribute>
 <attribute name="image" >images/current_digital_versions.png</attribute>
 <attribute name="summary" >As part of our design exercise, we collected as many of the online editions of the Tractatus which we could find. Here is a review.</attribute>
-<text >Since Wittgenstein&apos;s Tractatus is written in a numerical hierarchy, it has often been the subject of simple hypertext projects like our own. We were surprised that our design values differed significantly from these projects. We were equally delighted to see how other designers approached those goals.David and I decided to focus our design on comparison and flow, to match Wittgenstein&apos;s stated intentions. In a footnote, he explains that the hierarchy is intended to emphasize relative importance and sequence. Furthermore, the text&apos;s didactic style needs explicit structure if it is to be anything greater than a collection of aphorisms. An interface which permits comparison and flow provides that structure.&lt;div class=&quot;sidenote&quot;&gt;In our early design experiments, we used color to denote relative importance. In another, we used a treemap to display the entire structure (and some of the text) at once.&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4958395634/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4100/4958395634_74fb76233d_t.jpg&quot;/&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4962886243/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4088/4962886243_c725093ca4_t.jpg&quot;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;More information about our designs is available on The Hacktatus main page.Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to hide context and break up the text, presenting individual notes without context, or hiding large parts of the text.Most of these editions permit users to* Click to see the immediate child* Click to see the immediate parent* Read some next/previous statements of a similar importanceFew of them permit the tracing of a term or concept through the text. Only Bazzocchi&apos;s design shows where in the document a reader is. And short of opening up two web browser windows, none of them the permit comparison of sections.&lt;div class=&quot;sidenote&quot;&gt;(We only realized much later that the design features of these digital editions closely resembled the objectives of our anti-design exercise: The Oblique Tractatus.)&lt;/div&gt;Nonetheless, all of these designs work well on a large variety of web browsers. Laventhol&apos;s design has survived on the web for nearly 15 years.All of these hypertext versions of Tractatus apply very creative approaches to the same text:* &lt;a name =&quot;vanderdoes&quot; href=&quot;http://www.flickr.com/photos/natematias/4974041141/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4146/4974041141_d3374b24af_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jaap van der Does uses a javascript toolbar and search to help readers navigate his plain text version of the Tractatus.* &lt;a name =&quot;satohsin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655872/in/set-72157624917575658/lightbox/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655872_ee5aaf7ba6_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt;  Satoh Sin has made an English-Japanese edition which employs stretchtext. This design is innovative for its use of horizontal and vertical rules to indicate the expansion level. * &lt;a name =&quot;bazzocchi&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655982/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655982_935f3b14b8_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Luciano Bazzocchi, who was a PhD student at the University of Pisa, has posted a linked web version of the Tractatus on his website. He has also written scholarly articles on the Tractatus Hypertext, and Wittgenstein&apos;s writing habits. Bazzocchi is the only actual Wittgenstein scholar we know who has produced a hypertext edition.* &lt;a name=&quot;laventhol&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656104/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4105/4974656104_5d8d66c594_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jonathan Laventhol created a hypertext edition of the Ogden translation of the Tractatus. Like us, Laventhol added empty notes into the Tractatus to present a consistent structure. Laventhol is the edition which has been around the longest, is the most convention, bug free, and therefore is the most linked on scholarly websites. Laventhol has also produced a beautiful Site Map of the Tractatus.* &lt;a name=&quot;pasin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656170/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4125/4974656170_4a3f1ca0e7_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; PhiloSURFical is a strange and wonderful  (and abandoned) Semantic Web system by Michael Pasin which shows the Tractatus in tabs. There are also several phantom editions at the time of writing ( 9 Sept 2010).* The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford Philosophy website at one time (http://midas.thphys.ox.ac.uk:8001/the_tractatus)Additional notes:* We think it&apos;s fascinating that Terry Eagleton wrote extensively about Wittgenstein.* We are sad that so many big lists of Wittgenstein resources are out of date.</text>
+<text >Since Wittgenstein&apos;s Tractatus is written in a numerical hierarchy, it has often been the subject of simple hypertext projects like our own. We were surprised that our design values differed significantly from these projects. We were equally delighted to see how other designers approached those goals.David and I decided to focus our design on comparison and flow, to match Wittgenstein&apos;s stated intentions. In a footnote, he explains that the hierarchy is intended to emphasize relative importance and sequence. Furthermore, the text&apos;s didactic style needs explicit structure if it is to be anything greater than a collection of aphorisms. An interface which permits comparison and flow provides that structure.&lt;div class=&quot;sidenote&quot;&gt;In our early design experiments, we used color to denote relative importance. In another, we used a treemap to display the entire structure (and some of the text) at once.&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4958395634/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4100/4958395634_74fb76233d_t.jpg&quot;/&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4962886243/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4088/4962886243_c725093ca4_t.jpg&quot;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;More information about our designs will be available in the next few weeks on The Hacktatus main page.Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to hide context and break up the text.When compared to printed editions, these designs focus radically on the individual sections of the Tractatus. In addition, most the online editions permit users to* Click to see the immediate child* Click to see the immediate parent* Read some next/previous statements of a similar importanceFew of them permit the tracing of a term or concept through the text. They use Wittgenstein&apos;s numbers to donote the current location. And short of opening up two web browser windows, none of them the permit comparison of sections.&lt;div class=&quot;sidenote&quot;&gt;(We only realized much later that the design features of these digital editions closely resembled the objectives of our anti-design exercise: The Oblique Tractatus.)&lt;/div&gt;Nonetheless, all of these designs work well on a large variety of web browsers. Laventhol&apos;s design has survived on the web for nearly 15 years.Here is the list of hypertext editions of the Tractatus which we reviewed. (one is missing- help, Dave?):* &lt;a name =&quot;vanderdoes&quot; href=&quot;http://www.flickr.com/photos/natematias/4974041141/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4146/4974041141_d3374b24af_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jaap van der Does uses a javascript toolbar and search to help readers navigate his plain text version of the Tractatus.* &lt;a name =&quot;satohsin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655872/in/set-72157624917575658/lightbox/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655872_ee5aaf7ba6_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt;  Satoh Sin has made an English-Japanese edition which employs stretchtext. This design is innovative for its use of horizontal and vertical rules to indicate the expansion level. * &lt;a name =&quot;bazzocchi&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655982/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655982_935f3b14b8_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Luciano Bazzocchi, who was a PhD student at the University of Pisa, has posted a linked web version of the Tractatus on his website. He has also written scholarly articles on the Tractatus Hypertext, and Wittgenstein&apos;s writing habits. Bazzocchi is the only actual Wittgenstein scholar we know who has produced a hypertext edition.* &lt;a name=&quot;laventhol&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656104/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4105/4974656104_5d8d66c594_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; Jonathan Laventhol created a hypertext edition of the Ogden translation of the Tractatus. Like us, Laventhol added empty notes into the Tractatus to present a consistent structure. Laventhol is the edition which has been around the longest, is the most convention, bug free, and therefore is the most linked on scholarly websites. Laventhol has also produced a beautiful Site Map of the Tractatus.* &lt;a name=&quot;pasin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656170/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4125/4974656170_4a3f1ca0e7_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; PhiloSURFical is a strange and wonderful  (and abandoned) Semantic Web system by Michael Pasin which shows the Tractatus in tabs. There are also several phantom editions at the time of writing ( 9 Sept 2010).* The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford web servers at one time (http://midas.thphys.ox.ac.uk:8001/the_tractatus)Additional notes:* We think it&apos;s fascinating that Terry Eagleton wrote extensively about Wittgenstein.* We are sad that so many big lists of Wittgenstein resources are out of date.</text>
 <styles >
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="0" size="16" height="0" ascent="0" color="#000000"  />
  <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="346" size="16" height="0" ascent="0" color="#000000"  />
@@ -579,28 +581,28 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="513" size="16" height="0" ascent="0" color="#000000"  />
  <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="539" size="16" height="0" ascent="0" color="#000000"  />
  <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="547" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1401" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1405" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1406" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1413" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1418" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1426" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1427" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1435" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="2083" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2105" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="2594" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2611" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="2965" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2974" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="3385" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="3402" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="3956" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="3974" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="4590" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="4603" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="4933" size="16" height="0" ascent="0" color="#000000"  />
- <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="4980" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1428" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1432" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1433" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1440" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1445" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1453" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="1454" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="1462" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="2154" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2176" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="2677" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="2694" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="3048" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="3057" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="3468" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="3485" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="4039" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="4057" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="1" italic="0" underline="0" start="4673" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="4686" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="1" underline="0" start="5009" size="16" height="0" ascent="0" color="#000000"  />
+ <tstyle font="Lucida Grande" bold="0" italic="0" underline="0" start="5056" size="16" height="0" ascent="0" color="#000000"  />
 </styles>
 <rtf >{\rtf1\mac
 {\fonttbl
@@ -612,23 +614,23 @@ To learn more about &apos;Zettelschrift&apos; and the Tractatus, we spent a Satu
 {\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Since Wittgenstein&apos;s Tractatus is written in a numerical hierarchy, it has often been the subject of simple hypertext projects like our own. We were surprised that our design values differed significantly from these projects. We were equally delighted to see how other designers approached those goals.\par
 David and I decided to focus our design on {\b comparison} and {\b flow}, to match Wittgenstein&apos;s stated intentions. In a footnote, he explains that the hierarchy is intended to emphasize {\b relative importance} and {\b sequence}. Furthermore, the text&apos;s {\b didactic} style needs explicit structure if it is to be anything greater than a collection of aphorisms. An interface which permits comparison and flow provides that structure.\par
 &lt;div class=&quot;sidenote&quot;&gt;In our early design experiments, we used color to denote relative importance. In another, we used a treemap to display the entire structure (and some of the text) at once.&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4958395634/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4100/4958395634_74fb76233d_t.jpg&quot;/&gt;&lt;/a&gt;&lt;a href=&quot;http://www.flickr.com/photos/natematias/4962886243/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4088/4962886243_c725093ca4_t.jpg&quot;/&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;\par
-More information about our designs is available on The Hacktatus main page.\par
-Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to {\b hide} {\b context} and {\b break up} {\b the text}, presenting individual notes without context, or hiding large parts of the text.\par
-Most of these editions permit users to\par
+More information about our designs will be available in the next few weeks on The Hacktatus main page.\par
+Our focus on comparison and flow seemed the opposite of other designers, who go to great lengths to {\b hide} {\b context} and {\b break up} {\b the text}.\par
+When compared to printed editions, these designs focus radically on the individual sections of the Tractatus. In addition, most the online editions permit users to\par
 }{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * Click to see the immediate child\par
 * Click to see the immediate parent\par
 * Read some next/previous statements of a similar importance\par
-}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Few of them permit the tracing of a term or concept through the text. Only Bazzocchi&apos;s design shows where in the document a reader is. And short of opening up two web browser windows, none of them the permit comparison of sections.\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 Few of them permit the tracing of a term or concept through the text. They use Wittgenstein&apos;s numbers to donote the current location. And short of opening up two web browser windows, none of them the permit comparison of sections.\par
 &lt;div class=&quot;sidenote&quot;&gt;(We only realized much later that the design features of these digital editions closely resembled the objectives of our anti-design exercise:{\i  The Oblique Tractatus}.)&lt;/div&gt;\par
 Nonetheless, all of these designs work well on a large variety of web browsers. Laventhol&apos;s design has survived on the web for nearly 15 years.\par
-All of these hypertext versions of Tractatus apply very creative approaches to the same text:\par
+Here is the list of hypertext editions of the Tractatus which we reviewed. (one is missing- help, Dave?):\par
 }{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * &lt;a name =&quot;vanderdoes&quot; href=&quot;http://www.flickr.com/photos/natematias/4974041141/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4146/4974041141_d3374b24af_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; {\b Jaap van der Does} uses a javascript toolbar and search to help readers navigate his plain text version of the Tractatus.\par
 * &lt;a name =&quot;satohsin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655872/in/set-72157624917575658/lightbox/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655872_ee5aaf7ba6_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt;  {\b Satoh Sin} has made an English-Japanese edition which employs stretchtext. This design is innovative for its use of horizontal and vertical rules to indicate the expansion level. \par
 * &lt;a name =&quot;bazzocchi&quot; href=&quot;http://www.flickr.com/photos/natematias/4974655982/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4150/4974655982_935f3b14b8_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; {\b Luciano Bazzocchi}, who was a PhD student at the University of Pisa, has posted a linked web version of the Tractatus on his website. He has also written scholarly articles on the Tractatus Hypertext, and Wittgenstein&apos;s writing habits. Bazzocchi is the only actual Wittgenstein scholar we know who has produced a hypertext edition.\par
 * &lt;a name=&quot;laventhol&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656104/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4105/4974656104_5d8d66c594_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; {\b Jonathan Laventhol} created a hypertext edition of the Ogden translation of the Tractatus. Like us, Laventhol added empty notes into the Tractatus to present a consistent structure. Laventhol is the edition which has been around the longest, is the most convention, bug free, and therefore is the most linked on scholarly websites. Laventhol has also produced a beautiful Site Map of the Tractatus.\par
 * &lt;a name=&quot;pasin&quot; href=&quot;http://www.flickr.com/photos/natematias/4974656170/in/set-72157624917575658/&quot; style=&quot;float:right;display:inline-block;&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4125/4974656170_4a3f1ca0e7_m.jpg&quot; border=&quot;1&quot;/&gt;&lt;/a&gt; {\b PhiloSURFical} is a strange and wonderful  (and abandoned) Semantic Web system by Michael Pasin which shows the Tractatus in tabs. \par
 }{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 There are also several phantom editions at the time of writing ( 9 Sept 2010).\par
-}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford Philosophy website at one time ({\i http://midas.thphys.ox.ac.uk:8001/the_tractatus})\par
+}{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li1080\ri360\fi0\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 * The Chicago Philosophy Project list refers to an edition which resided on the University of Oxford web servers at one time ({\i http://midas.thphys.ox.ac.uk:8001/the_tractatus})\par
 }{\pard\plain\uc0\f0\fs32\cf0\ql\sb120\li360\ri360\tx720\tx1080\tx1440\tx1800\tx2160\tx2520\tx2880\tx3240 \par
 \par
 Additional notes:\par
@@ -642,10 +644,10 @@ Additional notes:\par
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2010-09-05T08:11:00+01:00</attribute>
 <attribute name="Name" >The Oblique Tractatus</attribute>
-<attribute name="ReadCount" >20</attribute>
-<attribute name="SelectionCount" >76</attribute>
+<attribute name="ReadCount" >21</attribute>
+<attribute name="SelectionCount" >79</attribute>
 <attribute name="Width" >5.5</attribute>
-<attribute name="WindowPlace" >Rect[ 51 50 864 434]</attribute>
+<attribute name="WindowPlace" >Rect[ 271 355 1084 739]</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >3</attribute>
 <attribute name="image" >images/oblique.png</attribute>
@@ -803,28 +805,28 @@ Additional notes:\par
 <link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="0" slen="14" style="0" destid="3348586029" destcreator="system" URL="http://no-man-is-an-island.github.com"  />
 <link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="65" slen="16" style="0" destid="3348586029" destcreator="system" URL="http://natematias.com"  />
 <link name="prototype" sourceid="3348586102" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3366618001" destcreator="system"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2984" slen="54" style="0" destid="3348586029" destcreator="system" URL="http://tractatus-online.appspot.com/Tractatus_en.html"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4838" slen="9" style="0" destid="3348586029" destcreator="system" URL="http://www.digitalhumanities.org/humanist/Archives/Virginia/v08/0129.html"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3466" slen="35" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/wittgenstein/"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3548" slen="70" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/pubblicazioni/index.htm"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3956" slen="18" style="0" destid="3348586029" destcreator="system" URL="http://www.laventhol.com/"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3983" slen="61" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/tlph.html"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="5035" slen="51" style="0" destid="3348586029" destcreator="system" URL="http://www.complete-review.com/reviews/wittgenl/tescript.htm"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4691" slen="27" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/tractatus/tabs.html"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4590" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4671" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://www.michelepasin.org/"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2674" slen="39" style="0" destid="3348586029" destcreator="system" URL="http://tlp.vddoes.net/"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2594" slen="17" style="0" destid="3348586029" destcreator="system" URL="http://www.vddoes.net/vanderdoes/Welcome.html"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4315" slen="37" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/mapen.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3067" slen="54" style="0" destid="3348586029" destcreator="system" URL="http://tractatus-online.appspot.com/Tractatus_en.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4921" slen="9" style="0" destid="3348586029" destcreator="system" URL="http://www.digitalhumanities.org/humanist/Archives/Virginia/v08/0129.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3549" slen="35" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/wittgenstein/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="3631" slen="70" style="0" destid="3348586029" destcreator="system" URL="http://www.bazzocchi.com/pubblicazioni/index.htm"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4039" slen="18" style="0" destid="3348586029" destcreator="system" URL="http://www.laventhol.com/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4066" slen="61" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/tlph.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="5111" slen="51" style="0" destid="3348586029" destcreator="system" URL="http://www.complete-review.com/reviews/wittgenl/tescript.htm"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4774" slen="27" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/tractatus/tabs.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4673" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://philosurfical.open.ac.uk/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4754" slen="13" style="0" destid="3348586029" destcreator="system" URL="http://www.michelepasin.org/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2757" slen="39" style="0" destid="3348586029" destcreator="system" URL="http://tlp.vddoes.net/"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2677" slen="17" style="0" destid="3348586029" destcreator="system" URL="http://www.vddoes.net/vanderdoes/Welcome.html"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="4398" slen="37" style="0" destid="3348586029" destcreator="system" URL="http://www.kfs.org/~jonathan/witt/mapen.html"  />
 <link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="770" slen="43" style="0" destid="3348586029" destcreator="system" URL="http://www.flickr.com/photos/natematias/4958395634/"  />
 <link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="827" slen="49" style="0" destid="3348586029" destcreator="system" URL="http://www.flickr.com/photos/natematias/4962886243/"  />
 <link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="-1" slen="0" style="0" destid="3348586730" destcreator="system"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2084" slen="21" style="0" destid="3348586029" destcreator="system" URL="natematias.com/projects/tractatus/oblique"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="1763" slen="18" style="0" destid="3348586029" destcreator="system" URL="#bazzocchi"  />
-<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2194" slen="18" style="0" destid="3348586029" destcreator="system" URL="#laventhol"  />
-<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="254" slen="39" style="0" destid="3348586029" destcreator="system" URL="http://portal.acm.org/citation.cfm?id=1557914.1557925&amp;coll=&amp;dl=GUIDE&amp;type=series&amp;idx=SERIES399&amp;part=series&amp;WantType=Proceedings&amp;title=HT"  />
-<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="336" slen="10" style="0" destid="3348586029" destcreator="system" URL="http://emberlight.net"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2155" slen="21" style="0" destid="3348586029" destcreator="system" URL="natematias.com/projects/tractatus/oblique"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="2265" slen="18" style="0" destid="3348586029" destcreator="system" URL="#laventhol"  />
+<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="254" slen="41" style="0" destid="3348586029" destcreator="system" URL="http://portal.acm.org/citation.cfm?id=1557914.1557925&amp;coll=&amp;dl=GUIDE&amp;type=series&amp;idx=SERIES399&amp;part=series&amp;WantType=Proceedings&amp;title=HT"  />
+<link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="338" slen="10" style="0" destid="3348586029" destcreator="system" URL="http://emberlight.net"  />
 <link name="*untitled" sourceid="3348588327" sourcecreator="system" sstart="147" slen="13" style="0" destid="3348586730" destcreator="system"  />
+<link name="*untitled" sourceid="3366463322" sourcecreator="system" sstart="1303" slen="23" style="0" destid="3348586730" destcreator="system"  />
 </links>
 <macros >
 </macros>
@@ -963,7 +965,8 @@ Additional notes:\par
    <SimplenotePassword > </SimplenotePassword>
 </preferences>
 <windows >
-<window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="1" y="157" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
 <window ID="3348586029" Creator="system" type="outline" bounds="Rect[ 270 44 663 719]" x="0" y="0" scale="5" expanded="3348586029 3348588305 3348586730 3348586032 "  />
+<window ID="3348586029" Creator="system" type="map" bounds="Rect[ 60 82 560 432]" x="1" y="157" scale="5" expanded="3348588305 3348586730 3348586032 " collapsed="3348586029 "  />
+<window ID="3366463322" Creator="system" type="text" bounds="Rect[ 744 48 1221 724]" x="0" y="0" scale="1"  />
 </windows>
 </tinderbox>
