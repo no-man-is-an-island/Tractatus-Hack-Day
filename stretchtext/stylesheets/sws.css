@@ -191,3 +191,49 @@ font-size:70%;
 margin-top:0px;
 margin-bottom:-25px;
 }
+
+
+/*TABLE OF CONTENTS STYLES*/
+
+#contents_contents{
+  border:1px solid black;
+  background:white;
+  width:150px;
+  padding:10px;
+  text-align:left;
+}
+
+
+.stretchtext_contents_item{
+}
+.stretchtext_contents_item .title{
+  font-size:14px;
+  height:2px;
+  width:60px;
+  overflow:hidden;
+  background:#999969;
+  color:#999969;
+}
+
+.stretchtext_contents_item .stretchtext_contents_item .title{
+  background:#eeeecd;
+  color:#eeeecd;
+}
+
+.stretchtext_contents_item .children{
+  margin-left:5px;
+}
+
+.stretchtext_contents_item div.title:hover{
+  disaply:block;
+  background:white;
+  border:1px solid #666;
+  height:30px;
+  width:200px;
+  padding:2px;
+}
+
+.stretchtext_contents_item:hover .children{
+  background:red;
+}
+

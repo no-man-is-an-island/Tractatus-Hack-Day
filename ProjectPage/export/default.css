@@ -124,6 +124,7 @@ body{
   background-repeat: repeat-x;
   display:block;
   width:470px;
+  line-height:160%;
   float:left;
   position:relative;
 
